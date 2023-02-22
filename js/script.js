@@ -479,7 +479,7 @@ if(Modernizr.webgl) {
 				.style("font-size", "14px")
 				.append("p")
 				.attr("id", "keyvalue")
-				.style("font-size", "18px")
+				.style("font-size", "15px")
 				.style("margin-top", "10px")
 				.style("margin-bottom", "5px")
 				.style("margin-left", "10px")
@@ -491,14 +491,17 @@ if(Modernizr.webgl) {
 		function setAxisVal(areanm, areacd, areaval2) {
 			if(data.filter(d=>d.AREACD==areacd)[0][variables[a]] != 'null') { // not fixed!
 				d3.select("#keyvalue")
-				.html(areanm + " is in <span style='font-weight:700'>Cluster " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + "</span>") // not fixed!
+				.html(areanm + " is in the<span style='font-weight:700'> " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + "cluster</span>")
 				.append("p")
 				.text("Local authorities in this cluster are:")
 				.append("ul")
 				.append("li")
-				.html("Relatively balanced between <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>")
-				.append("li")
 				.html("Mostly situated in <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='Region')[0].Value + "</span>")
+				.append("li")
+				.html(function(d) {
+					if (metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value == "urban and rural") {return "Relatively balanced between <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>"}
+					else { return "Mostly <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>" }
+					;})
 				.append("li")
 				.html("Better than the median for <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='AboveMedian')[0].Value + "</span>")
 				.append("li")
