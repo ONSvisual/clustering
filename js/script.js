@@ -491,7 +491,7 @@ if(Modernizr.webgl) {
 		function setAxisVal(areanm, areacd, areaval2) {
 			if(data.filter(d=>d.AREACD==areacd)[0][variables[a]] != 'null') { // not fixed!
 				d3.select("#keyvalue")
-				.html(areanm + " is in the<span style='font-weight:700'> " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + "cluster</span>")
+				.html(areanm + " is in the<span style='font-weight:700'> " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + " cluster</span>")
 				.append("p")
 				.text("Local authorities in this cluster are:")
 				.append("ul")
