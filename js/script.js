@@ -22,6 +22,13 @@ if(Modernizr.webgl) {
 		oldAREACD = "";
 		selected = false;
 		firsthover = true;
+		overallwidth = d3.select("body").node().getBoundingClientRect().width;
+
+		if (overallwidth < 600) {
+			mobile = true;
+		} else {
+			mobile = false;
+		};
 
 		//Get column names
 		variables = [];
@@ -472,55 +479,68 @@ if(Modernizr.webgl) {
 			keywidth = d3.select("#keydiv").node().getBoundingClientRect().width;
 
 			var svgkey = d3.select("#keydiv")
-				.attr("width", keywidth);
+				.attr("width", "100%"); // keywidth
 
 			d3.select("#keydiv")
 				.style("font-family", "Open Sans")
 				.style("font-size", "14px")
+				.style("height", function(d) { if(mobile == false) { return "0px"; } else { return "30px" } })
 				.append("p")
 				.attr("id", "keyvalue")
-				.style("font-size", "15px")
-				.style("margin-top", "10px")
+				.style("font-size", "16px")
+				.style("margin-top", function(d) { if(mobile == false) { return "20px"; } else { return "60px" } })
 				.style("margin-bottom", "5px")
 				.style("margin-left", "10px")
+				.style("margin-right", "15px")
 				.text("")
 		}
 
-		groups=["Headline","Economy","Connectivity","Education","Skills","Health","Wellbeing"]
+		groups=["Headline","Economy","Connectivity","Education","Skills","Health","Well-being"]
 
 		function setAxisVal(areanm, areacd, areaval2) {
-			if(data.filter(d=>d.AREACD==areacd)[0][variables[a]] != 'null') { // not fixed!
-				d3.select("#keyvalue")
-				.html(areanm + " is in the<span style='font-weight:700'> " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + " cluster</span>")
-				.append("p")
-				.text("Local authorities in this cluster are:")
-				.append("ul")
-				.append("li")
-				.html("Mostly situated in <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='Region')[0].Value + "</span>")
-				.append("li")
-				.html(function(d) {
-					if (metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value == "urban and rural") {return "Relatively balanced between <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>"}
-					else { return "Mostly <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>" }
-					;})
-				.append("li")
-				.html("Better than the median for <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='AboveMedian')[0].Value + "</span>")
-				.append("li")
-				.html("Worse than the median for <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='BelowMedian')[0].Value + "</span>")
-				.append("p")
-				.html("More detail on this cluster and other clusters can be found in the section below.")
+			if(mobile == false) {
+				if(data.filter(d=>d.AREACD==areacd)[0][variables[a]] != 'null') {
+					var contentarea = d3.select("#keyvalue")
+					contentarea.html(areanm + " is in the<span style='font-weight:700'> " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + " cluster</span>")
+					.append("p")
+					.text("Local authorities in this cluster are:")
+					.append("ul")
+					.append("li")
+					.html("Mostly situated in <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='Region')[0].Value + "</span>")
+					.append("li")
+					.html(function(d) {
+						if (metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value == "urban and rural") {return "Relatively balanced between <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>"}
+						else { return "Mostly <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='urbanrural')[0].Value + "</span>" }
+						;})
+						.append("li")
+						.html("Better than the median for <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='AboveMedian')[0].Value + "</span>")
+						.append("li")
+						.html("Worse than the median for <span style='font-weight:700'>" + metadata.filter(d=>d.AREACD==areacd).filter(d=>d.Group==groups[a]).filter(d=>d.Category=='BelowMedian')[0].Value + "</span>")
+					contentarea.append("p")
+					.text("More detail on this cluster and other clusters can be found in the section below.")
+					}
+					else{
+						d3.select("#keyvalue")
+						.text("This local authority could not be assigned to a cluster. This could be due to:")
+						.append("ul")
+						.append("li")
+						.text("Missing data for at least one metric")
+						.append("li")
+						.text("Data only being available at an older boundary date")
+						.append("p")
+						.text("More specific detail on why this local authority was excluded from our analysis can be found in our accompanying dataset.")
+					}
+				} else {
+					if(data.filter(d=>d.AREACD==areacd)[0][variables[a]] != 'null') {
+						d3.select("#keyvalue")
+						.html(areanm + " is in the<span style='font-weight:700'> " + data_with_names.filter(d=>d.AREACD==areacd)[0][variables[a]] + " cluster</span>")
+					}
+					else{
+						d3.select("#keyvalue")
+						.text("This local authority could not be assigned to a cluster.")
+					}
+				}
 			}
-			else{
-				d3.select("#keyvalue")
-				.text("This local authority could not be assigned to a cluster. This could be due to:")
-				.append("ul")
-				.append("li")
-				.text("Missing data for at least one metric")
-				.append("li")
-				.text("Data only being available at an older boundary date")
-				.append("p")
-				.text("More specific detail on why this local authority was excluded from our analysis can be found in our accompanying dataset.")
-			}
-		}
 
 		function hideaxisVal() {
 		  d3.select("#keyvalue").text("");
