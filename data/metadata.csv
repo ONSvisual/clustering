@@ -1,4 +1,4 @@
-AREACD,AREANM,Group,Category,Value
+AREACD,AREANMM,Group,Category,Value
 E06000001,Hartlepool,Headline,Region,"North West, East Midlands and West Midlands"
 E06000002,Middlesbrough,Headline,Region,"North West, East Midlands and West Midlands"
 E06000003,Redcar and Cleveland,Headline,Region,"North West, East Midlands and West Midlands"
@@ -7415,1239 +7415,1239 @@ E09000030,Tower Hamlets,Health,BelowMedian,"female healthy life expectancy, over
 E09000031,Waltham Forest,Health,BelowMedian,"female healthy life expectancy, overweight children (year 6), preventable cardiovascular mortality rate"
 E09000032,Wandsworth,Health,BelowMedian,null
 E09000033,Westminster,Health,BelowMedian,"female healthy life expectancy, overweight children (year 6), preventable cardiovascular mortality rate"
-E06000001,Hartlepool,Wellbeing,Region,South East and East of England
-E06000002,Middlesbrough,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000003,Redcar and Cleveland,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000004,Stockton-on-Tees,Wellbeing,Region,"London, South East and North West"
-E06000005,Darlington,Wellbeing,Region,"London, South East and North West"
-E06000006,Halton,Wellbeing,Region,"London, South East and North West"
-E06000007,Warrington,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000008,Blackburn with Darwen,Wellbeing,Region,"London, South East and North West"
-E06000009,Blackpool,Wellbeing,Region,"London, South East and North West"
-E06000010,"Kingston upon Hull, City of",Wellbeing,Region,"London, South East and North West"
-E06000011,East Riding of Yorkshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000012,North East Lincolnshire,Wellbeing,Region,South East and East of England
-E06000013,North Lincolnshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000014,York,Wellbeing,Region,South East and East of England
-E06000015,Derby,Wellbeing,Region,"London, South East and North West"
-E06000016,Leicester,Wellbeing,Region,South East and East of England
-E06000017,Rutland,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000018,Nottingham,Wellbeing,Region,"London, South East and North West"
-E06000019,"Herefordshire, County of",Wellbeing,Region,South East and East of England
-E06000020,Telford and Wrekin,Wellbeing,Region,"London, South East and North West"
-E06000021,Stoke-on-Trent,Wellbeing,Region,South East and East of England
-E06000022,Bath and North East Somerset,Wellbeing,Region,South East and East of England
-E06000023,"Bristol, City of",Wellbeing,Region,"London, South East and North West"
-E06000024,North Somerset,Wellbeing,Region,South East and East of England
-E06000025,South Gloucestershire,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000026,Plymouth,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000027,Torbay,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000030,Swindon,Wellbeing,Region,South East and East of England
-E06000031,Peterborough,Wellbeing,Region,"London, South East and North West"
-E06000032,Luton,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000033,Southend-on-Sea,Wellbeing,Region,South East and East of England
-E06000034,Thurrock,Wellbeing,Region,South East and East of England
-E06000035,Medway,Wellbeing,Region,"London, South East and North West"
-E06000036,Bracknell Forest,Wellbeing,Region,"London, South East and North West"
-E06000037,West Berkshire,Wellbeing,Region,South East and East of England
-E06000038,Reading,Wellbeing,Region,"London, South East and North West"
-E06000039,Slough,Wellbeing,Region,"London, South East and North West"
-E06000040,Windsor and Maidenhead,Wellbeing,Region,"London, South East and North West"
-E06000041,Wokingham,Wellbeing,Region,"London, South East and North West"
-E06000042,Milton Keynes,Wellbeing,Region,"London, South East and North West"
-E06000043,Brighton and Hove,Wellbeing,Region,"London, South East and North West"
-E06000044,Portsmouth,Wellbeing,Region,"London, South East and North West"
-E06000045,Southampton,Wellbeing,Region,"London, South East and North West"
-E06000046,Isle of Wight,Wellbeing,Region,"London, South East and North West"
-E06000047,County Durham,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000049,Cheshire East,Wellbeing,Region,South East and East of England
-E06000050,Cheshire West and Chester,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000051,Shropshire,Wellbeing,Region,South East and East of England
-E06000052,Cornwall,Wellbeing,Region,South East and East of England
-E06000053,Isles of Scilly,Wellbeing,Region,null
-E06000054,Wiltshire,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000055,Bedford,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000056,Central Bedfordshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000057,Northumberland,Wellbeing,Region,South East and East of England
-E06000058,"Bournemouth, Christchurch and Poole",Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000059,Dorset,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000060,Buckinghamshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E06000061,North Northamptonshire,Wellbeing,Region,"South West, West Midlands, North West and London"
-E06000062,West Northamptonshire,Wellbeing,Region,South East and East of England
-E07000008,Cambridge,Wellbeing,Region,South East and East of England
-E07000009,East Cambridgeshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000010,Fenland,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000011,Huntingdonshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000012,South Cambridgeshire,Wellbeing,Region,South East and East of England
-E07000026,Allerdale,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000027,Barrow-in-Furness,Wellbeing,Region,"London, South East and North West"
-E07000028,Carlisle,Wellbeing,Region,South East and East of England
-E07000029,Copeland,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000030,Eden,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000031,South Lakeland,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000032,Amber Valley,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000033,Bolsover,Wellbeing,Region,South East and East of England
-E07000034,Chesterfield,Wellbeing,Region,"London, South East and North West"
-E07000035,Derbyshire Dales,Wellbeing,Region,South East and East of England
-E07000036,Erewash,Wellbeing,Region,South East and East of England
-E07000037,High Peak,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000038,North East Derbyshire,Wellbeing,Region,South East and East of England
-E07000039,South Derbyshire,Wellbeing,Region,South East and East of England
-E07000040,East Devon,Wellbeing,Region,South East and East of England
-E07000041,Exeter,Wellbeing,Region,"London, South East and North West"
-E07000042,Mid Devon,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000043,North Devon,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000044,South Hams,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000045,Teignbridge,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000046,Torridge,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000047,West Devon,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000061,Eastbourne,Wellbeing,Region,South East and East of England
-E07000062,Hastings,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000063,Lewes,Wellbeing,Region,South East and East of England
-E07000064,Rother,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000065,Wealden,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000066,Basildon,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000067,Braintree,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000068,Brentwood,Wellbeing,Region,South East and East of England
-E07000069,Castle Point,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000070,Chelmsford,Wellbeing,Region,South East and East of England
-E07000071,Colchester,Wellbeing,Region,"London, South East and North West"
-E07000072,Epping Forest,Wellbeing,Region,South East and East of England
-E07000073,Harlow,Wellbeing,Region,South East and East of England
-E07000074,Maldon,Wellbeing,Region,South East and East of England
-E07000075,Rochford,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000076,Tendring,Wellbeing,Region,South East and East of England
-E07000077,Uttlesford,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000078,Cheltenham,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000079,Cotswold,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000080,Forest of Dean,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000081,Gloucester,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000082,Stroud,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000083,Tewkesbury,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000084,Basingstoke and Deane,Wellbeing,Region,South East and East of England
-E07000085,East Hampshire,Wellbeing,Region,South East and East of England
-E07000086,Eastleigh,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000087,Fareham,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000088,Gosport,Wellbeing,Region,South East and East of England
-E07000089,Hart,Wellbeing,Region,South East and East of England
-E07000090,Havant,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000091,New Forest,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000092,Rushmoor,Wellbeing,Region,South East and East of England
-E07000093,Test Valley,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000094,Winchester,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000095,Broxbourne,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000096,Dacorum,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000098,Hertsmere,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000099,North Hertfordshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000102,Three Rivers,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000103,Watford,Wellbeing,Region,South East and East of England
-E07000105,Ashford,Wellbeing,Region,South East and East of England
-E07000106,Canterbury,Wellbeing,Region,South East and East of England
-E07000107,Dartford,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000108,Dover,Wellbeing,Region,South East and East of England
-E07000109,Gravesham,Wellbeing,Region,South East and East of England
-E07000110,Maidstone,Wellbeing,Region,South East and East of England
-E07000111,Sevenoaks,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000112,Folkestone and Hythe,Wellbeing,Region,South East and East of England
-E07000113,Swale,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000114,Thanet,Wellbeing,Region,"London, South East and North West"
-E07000115,Tonbridge and Malling,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000116,Tunbridge Wells,Wellbeing,Region,"London, South East and North West"
-E07000117,Burnley,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000118,Chorley,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000119,Fylde,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000120,Hyndburn,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000121,Lancaster,Wellbeing,Region,South East and East of England
-E07000122,Pendle,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000123,Preston,Wellbeing,Region,"London, South East and North West"
-E07000124,Ribble Valley,Wellbeing,Region,South East and East of England
-E07000125,Rossendale,Wellbeing,Region,South East and East of England
-E07000126,South Ribble,Wellbeing,Region,"London, South East and North West"
-E07000127,West Lancashire,Wellbeing,Region,South East and East of England
-E07000128,Wyre,Wellbeing,Region,South East and East of England
-E07000129,Blaby,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000130,Charnwood,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000131,Harborough,Wellbeing,Region,South East and East of England
-E07000132,Hinckley and Bosworth,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000133,Melton,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000134,North West Leicestershire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000135,Oadby and Wigston,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000136,Boston,Wellbeing,Region,South East and East of England
-E07000137,East Lindsey,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000138,Lincoln,Wellbeing,Region,South East and East of England
-E07000139,North Kesteven,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000140,South Holland,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000141,South Kesteven,Wellbeing,Region,South East and East of England
-E07000142,West Lindsey,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000143,Breckland,Wellbeing,Region,South East and East of England
-E07000144,Broadland,Wellbeing,Region,South East and East of England
-E07000145,Great Yarmouth,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000146,King's Lynn and West Norfolk,Wellbeing,Region,South East and East of England
-E07000147,North Norfolk,Wellbeing,Region,South East and East of England
-E07000148,Norwich,Wellbeing,Region,"London, South East and North West"
-E07000149,South Norfolk,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000163,Craven,Wellbeing,Region,"London, South East and North West"
-E07000164,Hambleton,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000165,Harrogate,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000166,Richmondshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000167,Ryedale,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000168,Scarborough,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000169,Selby,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000170,Ashfield,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000171,Bassetlaw,Wellbeing,Region,"London, South East and North West"
-E07000172,Broxtowe,Wellbeing,Region,South East and East of England
-E07000173,Gedling,Wellbeing,Region,"London, South East and North West"
-E07000174,Mansfield,Wellbeing,Region,"London, South East and North West"
-E07000175,Newark and Sherwood,Wellbeing,Region,"London, South East and North West"
-E07000176,Rushcliffe,Wellbeing,Region,"London, South East and North West"
-E07000177,Cherwell,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000178,Oxford,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000179,South Oxfordshire,Wellbeing,Region,South East and East of England
-E07000180,Vale of White Horse,Wellbeing,Region,South East and East of England
-E07000181,West Oxfordshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000187,Mendip,Wellbeing,Region,South East and East of England
-E07000188,Sedgemoor,Wellbeing,Region,South East and East of England
-E07000189,South Somerset,Wellbeing,Region,South East and East of England
-E07000192,Cannock Chase,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000193,East Staffordshire,Wellbeing,Region,South East and East of England
-E07000194,Lichfield,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000195,Newcastle-under-Lyme,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000196,South Staffordshire,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000197,Stafford,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000198,Staffordshire Moorlands,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000199,Tamworth,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000200,Babergh,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000202,Ipswich,Wellbeing,Region,South East and East of England
-E07000203,Mid Suffolk,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000207,Elmbridge,Wellbeing,Region,South East and East of England
-E07000208,Epsom and Ewell,Wellbeing,Region,"London, South East and North West"
-E07000209,Guildford,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000210,Mole Valley,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000211,Reigate and Banstead,Wellbeing,Region,South East and East of England
-E07000212,Runnymede,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000213,Spelthorne,Wellbeing,Region,"London, South East and North West"
-E07000214,Surrey Heath,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000215,Tandridge,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000216,Waverley,Wellbeing,Region,South East and East of England
-E07000217,Woking,Wellbeing,Region,South East and East of England
-E07000218,North Warwickshire,Wellbeing,Region,South East and East of England
-E07000219,Nuneaton and Bedworth,Wellbeing,Region,South East and East of England
-E07000220,Rugby,Wellbeing,Region,South East and East of England
-E07000221,Stratford-on-Avon,Wellbeing,Region,South East and East of England
-E07000222,Warwick,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000223,Adur,Wellbeing,Region,South East and East of England
-E07000224,Arun,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000225,Chichester,Wellbeing,Region,South East and East of England
-E07000226,Crawley,Wellbeing,Region,"London, South East and North West"
-E07000227,Horsham,Wellbeing,Region,South East and East of England
-E07000228,Mid Sussex,Wellbeing,Region,"London, South East and North West"
-E07000229,Worthing,Wellbeing,Region,South East and East of England
-E07000234,Bromsgrove,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000235,Malvern Hills,Wellbeing,Region,"London, South East and North West"
-E07000236,Redditch,Wellbeing,Region,"London, South East and North West"
-E07000237,Worcester,Wellbeing,Region,"South West, West Midlands, North West and London"
-E07000238,Wychavon,Wellbeing,Region,South East and East of England
-E07000239,Wyre Forest,Wellbeing,Region,South East and East of England
-E07000240,St Albans,Wellbeing,Region,South East and East of England
-E07000241,Welwyn Hatfield,Wellbeing,Region,South East and East of England
-E07000242,East Hertfordshire,Wellbeing,Region,South East and East of England
-E07000243,Stevenage,Wellbeing,Region,"London, South East and North West"
-E07000244,East Suffolk,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000245,West Suffolk,Wellbeing,Region,"South East, East of England and East Midlands"
-E07000246,Somerset West and Taunton,Wellbeing,Region,"South East, East of England and East Midlands"
-E08000001,Bolton,Wellbeing,Region,South East and East of England
-E08000002,Bury,Wellbeing,Region,"London, South East and North West"
-E08000003,Manchester,Wellbeing,Region,"London, South East and North West"
-E08000004,Oldham,Wellbeing,Region,South East and East of England
-E08000005,Rochdale,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000006,Salford,Wellbeing,Region,"London, South East and North West"
-E08000007,Stockport,Wellbeing,Region,South East and East of England
-E08000008,Tameside,Wellbeing,Region,South East and East of England
-E08000009,Trafford,Wellbeing,Region,"London, South East and North West"
-E08000010,Wigan,Wellbeing,Region,"South East, East of England and East Midlands"
-E08000011,Knowsley,Wellbeing,Region,"London, South East and North West"
-E08000012,Liverpool,Wellbeing,Region,"London, South East and North West"
-E08000013,St. Helens,Wellbeing,Region,South East and East of England
-E08000014,Sefton,Wellbeing,Region,South East and East of England
-E08000015,Wirral,Wellbeing,Region,"London, South East and North West"
-E08000016,Barnsley,Wellbeing,Region,"London, South East and North West"
-E08000017,Doncaster,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000018,Rotherham,Wellbeing,Region,South East and East of England
-E08000019,Sheffield,Wellbeing,Region,South East and East of England
-E08000021,Newcastle upon Tyne,Wellbeing,Region,South East and East of England
-E08000022,North Tyneside,Wellbeing,Region,"London, South East and North West"
-E08000023,South Tyneside,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000024,Sunderland,Wellbeing,Region,"London, South East and North West"
-E08000025,Birmingham,Wellbeing,Region,"London, South East and North West"
-E08000026,Coventry,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000027,Dudley,Wellbeing,Region,South East and East of England
-E08000028,Sandwell,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000029,Solihull,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000030,Walsall,Wellbeing,Region,"London, South East and North West"
-E08000031,Wolverhampton,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000032,Bradford,Wellbeing,Region,South East and East of England
-E08000033,Calderdale,Wellbeing,Region,"South West, West Midlands, North West and London"
-E08000034,Kirklees,Wellbeing,Region,"South East, East of England and East Midlands"
-E08000035,Leeds,Wellbeing,Region,South East and East of England
-E08000036,Wakefield,Wellbeing,Region,South East and East of England
-E08000037,Gateshead,Wellbeing,Region,South East and East of England
-E09000001,City of London,Wellbeing,Region,null
-E09000002,Barking and Dagenham,Wellbeing,Region,"South East, East of England and East Midlands"
-E09000003,Barnet,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000004,Bexley,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000005,Brent,Wellbeing,Region,"London, South East and North West"
-E09000006,Bromley,Wellbeing,Region,"London, South East and North West"
-E09000007,Camden,Wellbeing,Region,"London, South East and North West"
-E09000008,Croydon,Wellbeing,Region,"London, South East and North West"
-E09000009,Ealing,Wellbeing,Region,South East and East of England
-E09000010,Enfield,Wellbeing,Region,"London, South East and North West"
-E09000011,Greenwich,Wellbeing,Region,"London, South East and North West"
-E09000012,Hackney,Wellbeing,Region,"London, South East and North West"
-E09000013,Hammersmith and Fulham,Wellbeing,Region,"London, South East and North West"
-E09000014,Haringey,Wellbeing,Region,"London, South East and North West"
-E09000015,Harrow,Wellbeing,Region,South East and East of England
-E09000016,Havering,Wellbeing,Region,South East and East of England
-E09000017,Hillingdon,Wellbeing,Region,South East and East of England
-E09000018,Hounslow,Wellbeing,Region,"London, South East and North West"
-E09000019,Islington,Wellbeing,Region,"London, South East and North West"
-E09000020,Kensington and Chelsea,Wellbeing,Region,"London, South East and North West"
-E09000021,Kingston upon Thames,Wellbeing,Region,"London, South East and North West"
-E09000022,Lambeth,Wellbeing,Region,"London, South East and North West"
-E09000023,Lewisham,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000024,Merton,Wellbeing,Region,South East and East of England
-E09000025,Newham,Wellbeing,Region,"South East, East of England and East Midlands"
-E09000026,Redbridge,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000027,Richmond upon Thames,Wellbeing,Region,"London, South East and North West"
-E09000028,Southwark,Wellbeing,Region,"London, South East and North West"
-E09000029,Sutton,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000030,Tower Hamlets,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000031,Waltham Forest,Wellbeing,Region,"South West, West Midlands, North West and London"
-E09000032,Wandsworth,Wellbeing,Region,"London, South East and North West"
-E09000033,Westminster,Wellbeing,Region,"London, South East and North West"
-E06000001,Hartlepool,Wellbeing,urbanrural,urban and rural
-E06000002,Middlesbrough,Wellbeing,urbanrural,urban
-E06000003,Redcar and Cleveland,Wellbeing,urbanrural,urban
-E06000004,Stockton-on-Tees,Wellbeing,urbanrural,urban
-E06000005,Darlington,Wellbeing,urbanrural,urban
-E06000006,Halton,Wellbeing,urbanrural,urban
-E06000007,Warrington,Wellbeing,urbanrural,urban
-E06000008,Blackburn with Darwen,Wellbeing,urbanrural,urban
-E06000009,Blackpool,Wellbeing,urbanrural,urban
-E06000010,"Kingston upon Hull, City of",Wellbeing,urbanrural,urban
-E06000011,East Riding of Yorkshire,Wellbeing,urbanrural,urban and rural
-E06000012,North East Lincolnshire,Wellbeing,urbanrural,urban and rural
-E06000013,North Lincolnshire,Wellbeing,urbanrural,urban and rural
-E06000014,York,Wellbeing,urbanrural,urban and rural
-E06000015,Derby,Wellbeing,urbanrural,urban
-E06000016,Leicester,Wellbeing,urbanrural,urban and rural
-E06000017,Rutland,Wellbeing,urbanrural,urban and rural
-E06000018,Nottingham,Wellbeing,urbanrural,urban
-E06000019,"Herefordshire, County of",Wellbeing,urbanrural,urban and rural
-E06000020,Telford and Wrekin,Wellbeing,urbanrural,urban
-E06000021,Stoke-on-Trent,Wellbeing,urbanrural,urban and rural
-E06000022,Bath and North East Somerset,Wellbeing,urbanrural,urban and rural
-E06000023,"Bristol, City of",Wellbeing,urbanrural,urban
-E06000024,North Somerset,Wellbeing,urbanrural,urban and rural
-E06000025,South Gloucestershire,Wellbeing,urbanrural,urban
-E06000026,Plymouth,Wellbeing,urbanrural,urban
-E06000027,Torbay,Wellbeing,urbanrural,urban
-E06000030,Swindon,Wellbeing,urbanrural,urban and rural
-E06000031,Peterborough,Wellbeing,urbanrural,urban
-E06000032,Luton,Wellbeing,urbanrural,urban and rural
-E06000033,Southend-on-Sea,Wellbeing,urbanrural,urban and rural
-E06000034,Thurrock,Wellbeing,urbanrural,urban and rural
-E06000035,Medway,Wellbeing,urbanrural,urban
-E06000036,Bracknell Forest,Wellbeing,urbanrural,urban
-E06000037,West Berkshire,Wellbeing,urbanrural,urban and rural
-E06000038,Reading,Wellbeing,urbanrural,urban
-E06000039,Slough,Wellbeing,urbanrural,urban
-E06000040,Windsor and Maidenhead,Wellbeing,urbanrural,urban
-E06000041,Wokingham,Wellbeing,urbanrural,urban
-E06000042,Milton Keynes,Wellbeing,urbanrural,urban
-E06000043,Brighton and Hove,Wellbeing,urbanrural,urban
-E06000044,Portsmouth,Wellbeing,urbanrural,urban
-E06000045,Southampton,Wellbeing,urbanrural,urban
-E06000046,Isle of Wight,Wellbeing,urbanrural,urban
-E06000047,County Durham,Wellbeing,urbanrural,urban
-E06000049,Cheshire East,Wellbeing,urbanrural,urban and rural
-E06000050,Cheshire West and Chester,Wellbeing,urbanrural,urban
-E06000051,Shropshire,Wellbeing,urbanrural,urban and rural
-E06000052,Cornwall,Wellbeing,urbanrural,urban and rural
-E06000053,Isles of Scilly,Wellbeing,urbanrural,null
-E06000054,Wiltshire,Wellbeing,urbanrural,urban
-E06000055,Bedford,Wellbeing,urbanrural,urban and rural
-E06000056,Central Bedfordshire,Wellbeing,urbanrural,urban and rural
-E06000057,Northumberland,Wellbeing,urbanrural,urban and rural
-E06000058,"Bournemouth, Christchurch and Poole",Wellbeing,urbanrural,urban
-E06000059,Dorset,Wellbeing,urbanrural,urban and rural
-E06000060,Buckinghamshire,Wellbeing,urbanrural,urban and rural
-E06000061,North Northamptonshire,Wellbeing,urbanrural,urban
-E06000062,West Northamptonshire,Wellbeing,urbanrural,urban and rural
-E07000008,Cambridge,Wellbeing,urbanrural,urban and rural
-E07000009,East Cambridgeshire,Wellbeing,urbanrural,urban and rural
-E07000010,Fenland,Wellbeing,urbanrural,urban
-E07000011,Huntingdonshire,Wellbeing,urbanrural,urban and rural
-E07000012,South Cambridgeshire,Wellbeing,urbanrural,urban and rural
-E07000026,Allerdale,Wellbeing,urbanrural,urban
-E07000027,Barrow-in-Furness,Wellbeing,urbanrural,urban
-E07000028,Carlisle,Wellbeing,urbanrural,urban and rural
-E07000029,Copeland,Wellbeing,urbanrural,urban
-E07000030,Eden,Wellbeing,urbanrural,urban
-E07000031,South Lakeland,Wellbeing,urbanrural,urban and rural
-E07000032,Amber Valley,Wellbeing,urbanrural,urban and rural
-E07000033,Bolsover,Wellbeing,urbanrural,urban and rural
-E07000034,Chesterfield,Wellbeing,urbanrural,urban
-E07000035,Derbyshire Dales,Wellbeing,urbanrural,urban and rural
-E07000036,Erewash,Wellbeing,urbanrural,urban and rural
-E07000037,High Peak,Wellbeing,urbanrural,urban and rural
-E07000038,North East Derbyshire,Wellbeing,urbanrural,urban and rural
-E07000039,South Derbyshire,Wellbeing,urbanrural,urban and rural
-E07000040,East Devon,Wellbeing,urbanrural,urban and rural
-E07000041,Exeter,Wellbeing,urbanrural,urban
-E07000042,Mid Devon,Wellbeing,urbanrural,urban and rural
-E07000043,North Devon,Wellbeing,urbanrural,urban and rural
-E07000044,South Hams,Wellbeing,urbanrural,urban and rural
-E07000045,Teignbridge,Wellbeing,urbanrural,urban and rural
-E07000046,Torridge,Wellbeing,urbanrural,urban and rural
-E07000047,West Devon,Wellbeing,urbanrural,urban and rural
-E07000061,Eastbourne,Wellbeing,urbanrural,urban and rural
-E07000062,Hastings,Wellbeing,urbanrural,urban and rural
-E07000063,Lewes,Wellbeing,urbanrural,urban and rural
-E07000064,Rother,Wellbeing,urbanrural,urban and rural
-E07000065,Wealden,Wellbeing,urbanrural,urban and rural
-E07000066,Basildon,Wellbeing,urbanrural,urban and rural
-E07000067,Braintree,Wellbeing,urbanrural,urban and rural
-E07000068,Brentwood,Wellbeing,urbanrural,urban and rural
-E07000069,Castle Point,Wellbeing,urbanrural,urban and rural
-E07000070,Chelmsford,Wellbeing,urbanrural,urban and rural
-E07000071,Colchester,Wellbeing,urbanrural,urban
-E07000072,Epping Forest,Wellbeing,urbanrural,urban and rural
-E07000073,Harlow,Wellbeing,urbanrural,urban and rural
-E07000074,Maldon,Wellbeing,urbanrural,urban and rural
-E07000075,Rochford,Wellbeing,urbanrural,urban and rural
-E07000076,Tendring,Wellbeing,urbanrural,urban and rural
-E07000077,Uttlesford,Wellbeing,urbanrural,urban and rural
-E07000078,Cheltenham,Wellbeing,urbanrural,urban
-E07000079,Cotswold,Wellbeing,urbanrural,urban and rural
-E07000080,Forest of Dean,Wellbeing,urbanrural,urban
-E07000081,Gloucester,Wellbeing,urbanrural,urban
-E07000082,Stroud,Wellbeing,urbanrural,urban
-E07000083,Tewkesbury,Wellbeing,urbanrural,urban
-E07000084,Basingstoke and Deane,Wellbeing,urbanrural,urban and rural
-E07000085,East Hampshire,Wellbeing,urbanrural,urban and rural
-E07000086,Eastleigh,Wellbeing,urbanrural,urban and rural
-E07000087,Fareham,Wellbeing,urbanrural,urban and rural
-E07000088,Gosport,Wellbeing,urbanrural,urban and rural
-E07000089,Hart,Wellbeing,urbanrural,urban and rural
-E07000090,Havant,Wellbeing,urbanrural,urban and rural
-E07000091,New Forest,Wellbeing,urbanrural,urban and rural
-E07000092,Rushmoor,Wellbeing,urbanrural,urban and rural
-E07000093,Test Valley,Wellbeing,urbanrural,urban and rural
-E07000094,Winchester,Wellbeing,urbanrural,urban and rural
-E07000095,Broxbourne,Wellbeing,urbanrural,urban
-E07000096,Dacorum,Wellbeing,urbanrural,urban
-E07000098,Hertsmere,Wellbeing,urbanrural,urban
-E07000099,North Hertfordshire,Wellbeing,urbanrural,urban and rural
-E07000102,Three Rivers,Wellbeing,urbanrural,urban and rural
-E07000103,Watford,Wellbeing,urbanrural,urban and rural
-E07000105,Ashford,Wellbeing,urbanrural,urban and rural
-E07000106,Canterbury,Wellbeing,urbanrural,urban and rural
-E07000107,Dartford,Wellbeing,urbanrural,urban and rural
-E07000108,Dover,Wellbeing,urbanrural,urban and rural
-E07000109,Gravesham,Wellbeing,urbanrural,urban and rural
-E07000110,Maidstone,Wellbeing,urbanrural,urban and rural
-E07000111,Sevenoaks,Wellbeing,urbanrural,urban and rural
-E07000112,Folkestone and Hythe,Wellbeing,urbanrural,urban and rural
-E07000113,Swale,Wellbeing,urbanrural,urban
-E07000114,Thanet,Wellbeing,urbanrural,urban
-E07000115,Tonbridge and Malling,Wellbeing,urbanrural,urban
-E07000116,Tunbridge Wells,Wellbeing,urbanrural,urban
-E07000117,Burnley,Wellbeing,urbanrural,urban
-E07000118,Chorley,Wellbeing,urbanrural,urban and rural
-E07000119,Fylde,Wellbeing,urbanrural,urban and rural
-E07000120,Hyndburn,Wellbeing,urbanrural,urban
-E07000121,Lancaster,Wellbeing,urbanrural,urban and rural
-E07000122,Pendle,Wellbeing,urbanrural,urban and rural
-E07000123,Preston,Wellbeing,urbanrural,urban
-E07000124,Ribble Valley,Wellbeing,urbanrural,urban and rural
-E07000125,Rossendale,Wellbeing,urbanrural,urban and rural
-E07000126,South Ribble,Wellbeing,urbanrural,urban
-E07000127,West Lancashire,Wellbeing,urbanrural,urban and rural
-E07000128,Wyre,Wellbeing,urbanrural,urban and rural
-E07000129,Blaby,Wellbeing,urbanrural,urban and rural
-E07000130,Charnwood,Wellbeing,urbanrural,urban and rural
-E07000131,Harborough,Wellbeing,urbanrural,urban and rural
-E07000132,Hinckley and Bosworth,Wellbeing,urbanrural,urban and rural
-E07000133,Melton,Wellbeing,urbanrural,urban
-E07000134,North West Leicestershire,Wellbeing,urbanrural,urban and rural
-E07000135,Oadby and Wigston,Wellbeing,urbanrural,urban and rural
-E07000136,Boston,Wellbeing,urbanrural,urban and rural
-E07000137,East Lindsey,Wellbeing,urbanrural,urban and rural
-E07000138,Lincoln,Wellbeing,urbanrural,urban and rural
-E07000139,North Kesteven,Wellbeing,urbanrural,urban and rural
-E07000140,South Holland,Wellbeing,urbanrural,urban
-E07000141,South Kesteven,Wellbeing,urbanrural,urban and rural
-E07000142,West Lindsey,Wellbeing,urbanrural,urban and rural
-E07000143,Breckland,Wellbeing,urbanrural,urban and rural
-E07000144,Broadland,Wellbeing,urbanrural,urban and rural
-E07000145,Great Yarmouth,Wellbeing,urbanrural,urban and rural
-E07000146,King's Lynn and West Norfolk,Wellbeing,urbanrural,urban and rural
-E07000147,North Norfolk,Wellbeing,urbanrural,urban and rural
-E07000148,Norwich,Wellbeing,urbanrural,urban
-E07000149,South Norfolk,Wellbeing,urbanrural,urban
-E07000163,Craven,Wellbeing,urbanrural,urban
-E07000164,Hambleton,Wellbeing,urbanrural,urban and rural
-E07000165,Harrogate,Wellbeing,urbanrural,urban and rural
-E07000166,Richmondshire,Wellbeing,urbanrural,urban and rural
-E07000167,Ryedale,Wellbeing,urbanrural,urban and rural
-E07000168,Scarborough,Wellbeing,urbanrural,urban and rural
-E07000169,Selby,Wellbeing,urbanrural,urban and rural
-E07000170,Ashfield,Wellbeing,urbanrural,urban
-E07000171,Bassetlaw,Wellbeing,urbanrural,urban
-E07000172,Broxtowe,Wellbeing,urbanrural,urban and rural
-E07000173,Gedling,Wellbeing,urbanrural,urban
-E07000174,Mansfield,Wellbeing,urbanrural,urban
-E07000175,Newark and Sherwood,Wellbeing,urbanrural,urban
-E07000176,Rushcliffe,Wellbeing,urbanrural,urban
-E07000177,Cherwell,Wellbeing,urbanrural,urban and rural
-E07000178,Oxford,Wellbeing,urbanrural,urban and rural
-E07000179,South Oxfordshire,Wellbeing,urbanrural,urban and rural
-E07000180,Vale of White Horse,Wellbeing,urbanrural,urban and rural
-E07000181,West Oxfordshire,Wellbeing,urbanrural,urban and rural
-E07000187,Mendip,Wellbeing,urbanrural,urban and rural
-E07000188,Sedgemoor,Wellbeing,urbanrural,urban and rural
-E07000189,South Somerset,Wellbeing,urbanrural,urban and rural
-E07000192,Cannock Chase,Wellbeing,urbanrural,urban
-E07000193,East Staffordshire,Wellbeing,urbanrural,urban and rural
-E07000194,Lichfield,Wellbeing,urbanrural,urban and rural
-E07000195,Newcastle-under-Lyme,Wellbeing,urbanrural,urban and rural
-E07000196,South Staffordshire,Wellbeing,urbanrural,urban and rural
-E07000197,Stafford,Wellbeing,urbanrural,urban
-E07000198,Staffordshire Moorlands,Wellbeing,urbanrural,urban and rural
-E07000199,Tamworth,Wellbeing,urbanrural,urban
-E07000200,Babergh,Wellbeing,urbanrural,urban and rural
-E07000202,Ipswich,Wellbeing,urbanrural,urban and rural
-E07000203,Mid Suffolk,Wellbeing,urbanrural,urban and rural
-E07000207,Elmbridge,Wellbeing,urbanrural,urban and rural
-E07000208,Epsom and Ewell,Wellbeing,urbanrural,urban
-E07000209,Guildford,Wellbeing,urbanrural,urban
-E07000210,Mole Valley,Wellbeing,urbanrural,urban and rural
-E07000211,Reigate and Banstead,Wellbeing,urbanrural,urban and rural
-E07000212,Runnymede,Wellbeing,urbanrural,urban
-E07000213,Spelthorne,Wellbeing,urbanrural,urban
-E07000214,Surrey Heath,Wellbeing,urbanrural,urban and rural
-E07000215,Tandridge,Wellbeing,urbanrural,urban and rural
-E07000216,Waverley,Wellbeing,urbanrural,urban and rural
-E07000217,Woking,Wellbeing,urbanrural,urban and rural
-E07000218,North Warwickshire,Wellbeing,urbanrural,urban and rural
-E07000219,Nuneaton and Bedworth,Wellbeing,urbanrural,urban and rural
-E07000220,Rugby,Wellbeing,urbanrural,urban and rural
-E07000221,Stratford-on-Avon,Wellbeing,urbanrural,urban and rural
-E07000222,Warwick,Wellbeing,urbanrural,urban
-E07000223,Adur,Wellbeing,urbanrural,urban and rural
-E07000224,Arun,Wellbeing,urbanrural,urban and rural
-E07000225,Chichester,Wellbeing,urbanrural,urban and rural
-E07000226,Crawley,Wellbeing,urbanrural,urban
-E07000227,Horsham,Wellbeing,urbanrural,urban and rural
-E07000228,Mid Sussex,Wellbeing,urbanrural,urban
-E07000229,Worthing,Wellbeing,urbanrural,urban and rural
-E07000234,Bromsgrove,Wellbeing,urbanrural,urban and rural
-E07000235,Malvern Hills,Wellbeing,urbanrural,urban
-E07000236,Redditch,Wellbeing,urbanrural,urban
-E07000237,Worcester,Wellbeing,urbanrural,urban
-E07000238,Wychavon,Wellbeing,urbanrural,urban and rural
-E07000239,Wyre Forest,Wellbeing,urbanrural,urban and rural
-E07000240,St Albans,Wellbeing,urbanrural,urban and rural
-E07000241,Welwyn Hatfield,Wellbeing,urbanrural,urban and rural
-E07000242,East Hertfordshire,Wellbeing,urbanrural,urban and rural
-E07000243,Stevenage,Wellbeing,urbanrural,urban
-E07000244,East Suffolk,Wellbeing,urbanrural,urban and rural
-E07000245,West Suffolk,Wellbeing,urbanrural,urban and rural
-E07000246,Somerset West and Taunton,Wellbeing,urbanrural,urban and rural
-E08000001,Bolton,Wellbeing,urbanrural,urban and rural
-E08000002,Bury,Wellbeing,urbanrural,urban
-E08000003,Manchester,Wellbeing,urbanrural,urban
-E08000004,Oldham,Wellbeing,urbanrural,urban and rural
-E08000005,Rochdale,Wellbeing,urbanrural,urban
-E08000006,Salford,Wellbeing,urbanrural,urban
-E08000007,Stockport,Wellbeing,urbanrural,urban and rural
-E08000008,Tameside,Wellbeing,urbanrural,urban and rural
-E08000009,Trafford,Wellbeing,urbanrural,urban
-E08000010,Wigan,Wellbeing,urbanrural,urban and rural
-E08000011,Knowsley,Wellbeing,urbanrural,urban
-E08000012,Liverpool,Wellbeing,urbanrural,urban
-E08000013,St. Helens,Wellbeing,urbanrural,urban and rural
-E08000014,Sefton,Wellbeing,urbanrural,urban and rural
-E08000015,Wirral,Wellbeing,urbanrural,urban
-E08000016,Barnsley,Wellbeing,urbanrural,urban
-E08000017,Doncaster,Wellbeing,urbanrural,urban
-E08000018,Rotherham,Wellbeing,urbanrural,urban and rural
-E08000019,Sheffield,Wellbeing,urbanrural,urban and rural
-E08000021,Newcastle upon Tyne,Wellbeing,urbanrural,urban and rural
-E08000022,North Tyneside,Wellbeing,urbanrural,urban
-E08000023,South Tyneside,Wellbeing,urbanrural,urban
-E08000024,Sunderland,Wellbeing,urbanrural,urban
-E08000025,Birmingham,Wellbeing,urbanrural,urban
-E08000026,Coventry,Wellbeing,urbanrural,urban
-E08000027,Dudley,Wellbeing,urbanrural,urban and rural
-E08000028,Sandwell,Wellbeing,urbanrural,urban
-E08000029,Solihull,Wellbeing,urbanrural,urban
-E08000030,Walsall,Wellbeing,urbanrural,urban
-E08000031,Wolverhampton,Wellbeing,urbanrural,urban
-E08000032,Bradford,Wellbeing,urbanrural,urban and rural
-E08000033,Calderdale,Wellbeing,urbanrural,urban
-E08000034,Kirklees,Wellbeing,urbanrural,urban and rural
-E08000035,Leeds,Wellbeing,urbanrural,urban and rural
-E08000036,Wakefield,Wellbeing,urbanrural,urban and rural
-E08000037,Gateshead,Wellbeing,urbanrural,urban and rural
-E09000001,City of London,Wellbeing,urbanrural,null
-E09000002,Barking and Dagenham,Wellbeing,urbanrural,urban and rural
-E09000003,Barnet,Wellbeing,urbanrural,urban
-E09000004,Bexley,Wellbeing,urbanrural,urban
-E09000005,Brent,Wellbeing,urbanrural,urban
-E09000006,Bromley,Wellbeing,urbanrural,urban
-E09000007,Camden,Wellbeing,urbanrural,urban
-E09000008,Croydon,Wellbeing,urbanrural,urban
-E09000009,Ealing,Wellbeing,urbanrural,urban and rural
-E09000010,Enfield,Wellbeing,urbanrural,urban
-E09000011,Greenwich,Wellbeing,urbanrural,urban
-E09000012,Hackney,Wellbeing,urbanrural,urban
-E09000013,Hammersmith and Fulham,Wellbeing,urbanrural,urban
-E09000014,Haringey,Wellbeing,urbanrural,urban
-E09000015,Harrow,Wellbeing,urbanrural,urban and rural
-E09000016,Havering,Wellbeing,urbanrural,urban and rural
-E09000017,Hillingdon,Wellbeing,urbanrural,urban and rural
-E09000018,Hounslow,Wellbeing,urbanrural,urban
-E09000019,Islington,Wellbeing,urbanrural,urban
-E09000020,Kensington and Chelsea,Wellbeing,urbanrural,urban
-E09000021,Kingston upon Thames,Wellbeing,urbanrural,urban
-E09000022,Lambeth,Wellbeing,urbanrural,urban
-E09000023,Lewisham,Wellbeing,urbanrural,urban
-E09000024,Merton,Wellbeing,urbanrural,urban and rural
-E09000025,Newham,Wellbeing,urbanrural,urban and rural
-E09000026,Redbridge,Wellbeing,urbanrural,urban
-E09000027,Richmond upon Thames,Wellbeing,urbanrural,urban
-E09000028,Southwark,Wellbeing,urbanrural,urban
-E09000029,Sutton,Wellbeing,urbanrural,urban
-E09000030,Tower Hamlets,Wellbeing,urbanrural,urban
-E09000031,Waltham Forest,Wellbeing,urbanrural,urban
-E09000032,Wandsworth,Wellbeing,urbanrural,urban
-E09000033,Westminster,Wellbeing,urbanrural,urban
-E06000001,Hartlepool,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000002,Middlesbrough,Wellbeing,AboveMedian,anxiety
-E06000003,Redcar and Cleveland,Wellbeing,AboveMedian,anxiety
-E06000004,Stockton-on-Tees,Wellbeing,AboveMedian,None
-E06000005,Darlington,Wellbeing,AboveMedian,None
-E06000006,Halton,Wellbeing,AboveMedian,None
-E06000007,Warrington,Wellbeing,AboveMedian,anxiety
-E06000008,Blackburn with Darwen,Wellbeing,AboveMedian,None
-E06000009,Blackpool,Wellbeing,AboveMedian,None
-E06000010,"Kingston upon Hull, City of",Wellbeing,AboveMedian,None
-E06000011,East Riding of Yorkshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000012,North East Lincolnshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000013,North Lincolnshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000014,York,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000015,Derby,Wellbeing,AboveMedian,None
-E06000016,Leicester,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000017,Rutland,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000018,Nottingham,Wellbeing,AboveMedian,None
-E06000019,"Herefordshire, County of",Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000020,Telford and Wrekin,Wellbeing,AboveMedian,None
-E06000021,Stoke-on-Trent,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000022,Bath and North East Somerset,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000023,"Bristol, City of",Wellbeing,AboveMedian,None
-E06000024,North Somerset,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000025,South Gloucestershire,Wellbeing,AboveMedian,anxiety
-E06000026,Plymouth,Wellbeing,AboveMedian,anxiety
-E06000027,Torbay,Wellbeing,AboveMedian,anxiety
-E06000030,Swindon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000031,Peterborough,Wellbeing,AboveMedian,None
-E06000032,Luton,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000033,Southend-on-Sea,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000034,Thurrock,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000035,Medway,Wellbeing,AboveMedian,None
-E06000036,Bracknell Forest,Wellbeing,AboveMedian,None
-E06000037,West Berkshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000038,Reading,Wellbeing,AboveMedian,None
-E06000039,Slough,Wellbeing,AboveMedian,None
-E06000040,Windsor and Maidenhead,Wellbeing,AboveMedian,None
-E06000041,Wokingham,Wellbeing,AboveMedian,None
-E06000042,Milton Keynes,Wellbeing,AboveMedian,None
-E06000043,Brighton and Hove,Wellbeing,AboveMedian,None
-E06000044,Portsmouth,Wellbeing,AboveMedian,None
-E06000045,Southampton,Wellbeing,AboveMedian,None
-E06000046,Isle of Wight,Wellbeing,AboveMedian,None
-E06000047,County Durham,Wellbeing,AboveMedian,anxiety
-E06000049,Cheshire East,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000050,Cheshire West and Chester,Wellbeing,AboveMedian,anxiety
-E06000051,Shropshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000052,Cornwall,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000053,Isles of Scilly,Wellbeing,AboveMedian,null
-E06000054,Wiltshire,Wellbeing,AboveMedian,anxiety
-E06000055,Bedford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000056,Central Bedfordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000057,Northumberland,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000058,"Bournemouth, Christchurch and Poole",Wellbeing,AboveMedian,anxiety
-E06000059,Dorset,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000060,Buckinghamshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000061,North Northamptonshire,Wellbeing,AboveMedian,anxiety
-E06000062,West Northamptonshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000008,Cambridge,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000009,East Cambridgeshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000010,Fenland,Wellbeing,AboveMedian,anxiety
-E07000011,Huntingdonshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000012,South Cambridgeshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000026,Allerdale,Wellbeing,AboveMedian,anxiety
-E07000027,Barrow-in-Furness,Wellbeing,AboveMedian,None
-E07000028,Carlisle,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000029,Copeland,Wellbeing,AboveMedian,anxiety
-E07000030,Eden,Wellbeing,AboveMedian,anxiety
-E07000031,South Lakeland,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000032,Amber Valley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000033,Bolsover,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000034,Chesterfield,Wellbeing,AboveMedian,None
-E07000035,Derbyshire Dales,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000036,Erewash,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000037,High Peak,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000038,North East Derbyshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000039,South Derbyshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000040,East Devon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000041,Exeter,Wellbeing,AboveMedian,None
-E07000042,Mid Devon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000043,North Devon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000044,South Hams,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000045,Teignbridge,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000046,Torridge,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000047,West Devon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000061,Eastbourne,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000062,Hastings,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000063,Lewes,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000064,Rother,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000065,Wealden,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000066,Basildon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000067,Braintree,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000068,Brentwood,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000069,Castle Point,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000070,Chelmsford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000071,Colchester,Wellbeing,AboveMedian,None
-E07000072,Epping Forest,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000073,Harlow,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000074,Maldon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000075,Rochford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000076,Tendring,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000077,Uttlesford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000078,Cheltenham,Wellbeing,AboveMedian,anxiety
-E07000079,Cotswold,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000080,Forest of Dean,Wellbeing,AboveMedian,anxiety
-E07000081,Gloucester,Wellbeing,AboveMedian,anxiety
-E07000082,Stroud,Wellbeing,AboveMedian,anxiety
-E07000083,Tewkesbury,Wellbeing,AboveMedian,anxiety
-E07000084,Basingstoke and Deane,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000085,East Hampshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000086,Eastleigh,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000087,Fareham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000088,Gosport,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000089,Hart,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000090,Havant,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000091,New Forest,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000092,Rushmoor,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000093,Test Valley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000094,Winchester,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000095,Broxbourne,Wellbeing,AboveMedian,anxiety
-E07000096,Dacorum,Wellbeing,AboveMedian,anxiety
-E07000098,Hertsmere,Wellbeing,AboveMedian,anxiety
-E07000099,North Hertfordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000102,Three Rivers,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000103,Watford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000105,Ashford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000106,Canterbury,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000107,Dartford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000108,Dover,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000109,Gravesham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000110,Maidstone,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000111,Sevenoaks,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000112,Folkestone and Hythe,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000113,Swale,Wellbeing,AboveMedian,anxiety
-E07000114,Thanet,Wellbeing,AboveMedian,None
-E07000115,Tonbridge and Malling,Wellbeing,AboveMedian,anxiety
-E07000116,Tunbridge Wells,Wellbeing,AboveMedian,None
-E07000117,Burnley,Wellbeing,AboveMedian,anxiety
-E07000118,Chorley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000119,Fylde,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000120,Hyndburn,Wellbeing,AboveMedian,anxiety
-E07000121,Lancaster,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000122,Pendle,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000123,Preston,Wellbeing,AboveMedian,None
-E07000124,Ribble Valley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000125,Rossendale,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000126,South Ribble,Wellbeing,AboveMedian,None
-E07000127,West Lancashire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000128,Wyre,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000129,Blaby,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000130,Charnwood,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000131,Harborough,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000132,Hinckley and Bosworth,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000133,Melton,Wellbeing,AboveMedian,anxiety
-E07000134,North West Leicestershire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000135,Oadby and Wigston,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000136,Boston,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000137,East Lindsey,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000138,Lincoln,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000139,North Kesteven,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000140,South Holland,Wellbeing,AboveMedian,anxiety
-E07000141,South Kesteven,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000142,West Lindsey,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000143,Breckland,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000144,Broadland,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000145,Great Yarmouth,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000146,King's Lynn and West Norfolk,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000147,North Norfolk,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000148,Norwich,Wellbeing,AboveMedian,None
-E07000149,South Norfolk,Wellbeing,AboveMedian,anxiety
-E07000163,Craven,Wellbeing,AboveMedian,None
-E07000164,Hambleton,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000165,Harrogate,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000166,Richmondshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000167,Ryedale,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000168,Scarborough,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000169,Selby,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000170,Ashfield,Wellbeing,AboveMedian,anxiety
-E07000171,Bassetlaw,Wellbeing,AboveMedian,None
-E07000172,Broxtowe,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000173,Gedling,Wellbeing,AboveMedian,None
-E07000174,Mansfield,Wellbeing,AboveMedian,None
-E07000175,Newark and Sherwood,Wellbeing,AboveMedian,None
-E07000176,Rushcliffe,Wellbeing,AboveMedian,None
-E07000177,Cherwell,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000178,Oxford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000179,South Oxfordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000180,Vale of White Horse,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000181,West Oxfordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000187,Mendip,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000188,Sedgemoor,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000189,South Somerset,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000192,Cannock Chase,Wellbeing,AboveMedian,anxiety
-E07000193,East Staffordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000194,Lichfield,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000195,Newcastle-under-Lyme,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000196,South Staffordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000197,Stafford,Wellbeing,AboveMedian,anxiety
-E07000198,Staffordshire Moorlands,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000199,Tamworth,Wellbeing,AboveMedian,anxiety
-E07000200,Babergh,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000202,Ipswich,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000203,Mid Suffolk,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000207,Elmbridge,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000208,Epsom and Ewell,Wellbeing,AboveMedian,None
-E07000209,Guildford,Wellbeing,AboveMedian,anxiety
-E07000210,Mole Valley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000211,Reigate and Banstead,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000212,Runnymede,Wellbeing,AboveMedian,anxiety
-E07000213,Spelthorne,Wellbeing,AboveMedian,None
-E07000214,Surrey Heath,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000215,Tandridge,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000216,Waverley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000217,Woking,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000218,North Warwickshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000219,Nuneaton and Bedworth,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000220,Rugby,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000221,Stratford-on-Avon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000222,Warwick,Wellbeing,AboveMedian,anxiety
-E07000223,Adur,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000224,Arun,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000225,Chichester,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000226,Crawley,Wellbeing,AboveMedian,None
-E07000227,Horsham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000228,Mid Sussex,Wellbeing,AboveMedian,None
-E07000229,Worthing,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000234,Bromsgrove,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000235,Malvern Hills,Wellbeing,AboveMedian,None
-E07000236,Redditch,Wellbeing,AboveMedian,None
-E07000237,Worcester,Wellbeing,AboveMedian,anxiety
-E07000238,Wychavon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000239,Wyre Forest,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000240,St Albans,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000241,Welwyn Hatfield,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000242,East Hertfordshire,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000243,Stevenage,Wellbeing,AboveMedian,None
-E07000244,East Suffolk,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000245,West Suffolk,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000246,Somerset West and Taunton,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000001,Bolton,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000002,Bury,Wellbeing,AboveMedian,None
-E08000003,Manchester,Wellbeing,AboveMedian,None
-E08000004,Oldham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000005,Rochdale,Wellbeing,AboveMedian,anxiety
-E08000006,Salford,Wellbeing,AboveMedian,None
-E08000007,Stockport,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000008,Tameside,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000009,Trafford,Wellbeing,AboveMedian,None
-E08000010,Wigan,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000011,Knowsley,Wellbeing,AboveMedian,None
-E08000012,Liverpool,Wellbeing,AboveMedian,None
-E08000013,St. Helens,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000014,Sefton,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000015,Wirral,Wellbeing,AboveMedian,None
-E08000016,Barnsley,Wellbeing,AboveMedian,None
-E08000017,Doncaster,Wellbeing,AboveMedian,anxiety
-E08000018,Rotherham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000019,Sheffield,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000021,Newcastle upon Tyne,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000022,North Tyneside,Wellbeing,AboveMedian,None
-E08000023,South Tyneside,Wellbeing,AboveMedian,anxiety
-E08000024,Sunderland,Wellbeing,AboveMedian,None
-E08000025,Birmingham,Wellbeing,AboveMedian,None
-E08000026,Coventry,Wellbeing,AboveMedian,anxiety
-E08000027,Dudley,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000028,Sandwell,Wellbeing,AboveMedian,anxiety
-E08000029,Solihull,Wellbeing,AboveMedian,anxiety
-E08000030,Walsall,Wellbeing,AboveMedian,None
-E08000031,Wolverhampton,Wellbeing,AboveMedian,anxiety
-E08000032,Bradford,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000033,Calderdale,Wellbeing,AboveMedian,anxiety
-E08000034,Kirklees,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000035,Leeds,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000036,Wakefield,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000037,Gateshead,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000001,City of London,Wellbeing,AboveMedian,null
-E09000002,Barking and Dagenham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000003,Barnet,Wellbeing,AboveMedian,anxiety
-E09000004,Bexley,Wellbeing,AboveMedian,anxiety
-E09000005,Brent,Wellbeing,AboveMedian,None
-E09000006,Bromley,Wellbeing,AboveMedian,None
-E09000007,Camden,Wellbeing,AboveMedian,None
-E09000008,Croydon,Wellbeing,AboveMedian,None
-E09000009,Ealing,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000010,Enfield,Wellbeing,AboveMedian,None
-E09000011,Greenwich,Wellbeing,AboveMedian,None
-E09000012,Hackney,Wellbeing,AboveMedian,None
-E09000013,Hammersmith and Fulham,Wellbeing,AboveMedian,None
-E09000014,Haringey,Wellbeing,AboveMedian,None
-E09000015,Harrow,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000016,Havering,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000017,Hillingdon,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000018,Hounslow,Wellbeing,AboveMedian,None
-E09000019,Islington,Wellbeing,AboveMedian,None
-E09000020,Kensington and Chelsea,Wellbeing,AboveMedian,None
-E09000021,Kingston upon Thames,Wellbeing,AboveMedian,None
-E09000022,Lambeth,Wellbeing,AboveMedian,None
-E09000023,Lewisham,Wellbeing,AboveMedian,anxiety
-E09000024,Merton,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000025,Newham,Wellbeing,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000026,Redbridge,Wellbeing,AboveMedian,anxiety
-E09000027,Richmond upon Thames,Wellbeing,AboveMedian,None
-E09000028,Southwark,Wellbeing,AboveMedian,None
-E09000029,Sutton,Wellbeing,AboveMedian,anxiety
-E09000030,Tower Hamlets,Wellbeing,AboveMedian,anxiety
-E09000031,Waltham Forest,Wellbeing,AboveMedian,anxiety
-E09000032,Wandsworth,Wellbeing,AboveMedian,None
-E09000033,Westminster,Wellbeing,AboveMedian,None
-E06000001,Hartlepool,Wellbeing,BelowMedian,None
-E06000002,Middlesbrough,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000003,Redcar and Cleveland,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000004,Stockton-on-Tees,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000005,Darlington,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000006,Halton,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000007,Warrington,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000008,Blackburn with Darwen,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000009,Blackpool,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000010,"Kingston upon Hull, City of",Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000011,East Riding of Yorkshire,Wellbeing,BelowMedian,None
-E06000012,North East Lincolnshire,Wellbeing,BelowMedian,None
-E06000013,North Lincolnshire,Wellbeing,BelowMedian,None
-E06000014,York,Wellbeing,BelowMedian,None
-E06000015,Derby,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000016,Leicester,Wellbeing,BelowMedian,None
-E06000017,Rutland,Wellbeing,BelowMedian,None
-E06000018,Nottingham,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000019,"Herefordshire, County of",Wellbeing,BelowMedian,None
-E06000020,Telford and Wrekin,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000021,Stoke-on-Trent,Wellbeing,BelowMedian,None
-E06000022,Bath and North East Somerset,Wellbeing,BelowMedian,None
-E06000023,"Bristol, City of",Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000024,North Somerset,Wellbeing,BelowMedian,None
-E06000025,South Gloucestershire,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000026,Plymouth,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000027,Torbay,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000030,Swindon,Wellbeing,BelowMedian,None
-E06000031,Peterborough,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000032,Luton,Wellbeing,BelowMedian,None
-E06000033,Southend-on-Sea,Wellbeing,BelowMedian,None
-E06000034,Thurrock,Wellbeing,BelowMedian,None
-E06000035,Medway,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000036,Bracknell Forest,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000037,West Berkshire,Wellbeing,BelowMedian,None
-E06000038,Reading,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000039,Slough,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000040,Windsor and Maidenhead,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000041,Wokingham,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000042,Milton Keynes,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000043,Brighton and Hove,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000044,Portsmouth,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000045,Southampton,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000046,Isle of Wight,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E06000047,County Durham,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000049,Cheshire East,Wellbeing,BelowMedian,None
-E06000050,Cheshire West and Chester,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000051,Shropshire,Wellbeing,BelowMedian,None
-E06000052,Cornwall,Wellbeing,BelowMedian,None
-E06000053,Isles of Scilly,Wellbeing,BelowMedian,null
-E06000054,Wiltshire,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000055,Bedford,Wellbeing,BelowMedian,None
-E06000056,Central Bedfordshire,Wellbeing,BelowMedian,None
-E06000057,Northumberland,Wellbeing,BelowMedian,None
-E06000058,"Bournemouth, Christchurch and Poole",Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000059,Dorset,Wellbeing,BelowMedian,None
-E06000060,Buckinghamshire,Wellbeing,BelowMedian,None
-E06000061,North Northamptonshire,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E06000062,West Northamptonshire,Wellbeing,BelowMedian,None
-E07000008,Cambridge,Wellbeing,BelowMedian,None
-E07000009,East Cambridgeshire,Wellbeing,BelowMedian,None
-E07000010,Fenland,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000011,Huntingdonshire,Wellbeing,BelowMedian,None
-E07000012,South Cambridgeshire,Wellbeing,BelowMedian,None
-E07000026,Allerdale,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000027,Barrow-in-Furness,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000028,Carlisle,Wellbeing,BelowMedian,None
-E07000029,Copeland,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000030,Eden,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000031,South Lakeland,Wellbeing,BelowMedian,None
-E07000032,Amber Valley,Wellbeing,BelowMedian,None
-E07000033,Bolsover,Wellbeing,BelowMedian,None
-E07000034,Chesterfield,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000035,Derbyshire Dales,Wellbeing,BelowMedian,None
-E07000036,Erewash,Wellbeing,BelowMedian,None
-E07000037,High Peak,Wellbeing,BelowMedian,None
-E07000038,North East Derbyshire,Wellbeing,BelowMedian,None
-E07000039,South Derbyshire,Wellbeing,BelowMedian,None
-E07000040,East Devon,Wellbeing,BelowMedian,None
-E07000041,Exeter,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000042,Mid Devon,Wellbeing,BelowMedian,None
-E07000043,North Devon,Wellbeing,BelowMedian,None
-E07000044,South Hams,Wellbeing,BelowMedian,None
-E07000045,Teignbridge,Wellbeing,BelowMedian,None
-E07000046,Torridge,Wellbeing,BelowMedian,None
-E07000047,West Devon,Wellbeing,BelowMedian,None
-E07000061,Eastbourne,Wellbeing,BelowMedian,None
-E07000062,Hastings,Wellbeing,BelowMedian,None
-E07000063,Lewes,Wellbeing,BelowMedian,None
-E07000064,Rother,Wellbeing,BelowMedian,None
-E07000065,Wealden,Wellbeing,BelowMedian,None
-E07000066,Basildon,Wellbeing,BelowMedian,None
-E07000067,Braintree,Wellbeing,BelowMedian,None
-E07000068,Brentwood,Wellbeing,BelowMedian,None
-E07000069,Castle Point,Wellbeing,BelowMedian,None
-E07000070,Chelmsford,Wellbeing,BelowMedian,None
-E07000071,Colchester,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000072,Epping Forest,Wellbeing,BelowMedian,None
-E07000073,Harlow,Wellbeing,BelowMedian,None
-E07000074,Maldon,Wellbeing,BelowMedian,None
-E07000075,Rochford,Wellbeing,BelowMedian,None
-E07000076,Tendring,Wellbeing,BelowMedian,None
-E07000077,Uttlesford,Wellbeing,BelowMedian,None
-E07000078,Cheltenham,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000079,Cotswold,Wellbeing,BelowMedian,None
-E07000080,Forest of Dean,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000081,Gloucester,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000082,Stroud,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000083,Tewkesbury,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000084,Basingstoke and Deane,Wellbeing,BelowMedian,None
-E07000085,East Hampshire,Wellbeing,BelowMedian,None
-E07000086,Eastleigh,Wellbeing,BelowMedian,None
-E07000087,Fareham,Wellbeing,BelowMedian,None
-E07000088,Gosport,Wellbeing,BelowMedian,None
-E07000089,Hart,Wellbeing,BelowMedian,None
-E07000090,Havant,Wellbeing,BelowMedian,None
-E07000091,New Forest,Wellbeing,BelowMedian,None
-E07000092,Rushmoor,Wellbeing,BelowMedian,None
-E07000093,Test Valley,Wellbeing,BelowMedian,None
-E07000094,Winchester,Wellbeing,BelowMedian,None
-E07000095,Broxbourne,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000096,Dacorum,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000098,Hertsmere,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000099,North Hertfordshire,Wellbeing,BelowMedian,None
-E07000102,Three Rivers,Wellbeing,BelowMedian,None
-E07000103,Watford,Wellbeing,BelowMedian,None
-E07000105,Ashford,Wellbeing,BelowMedian,None
-E07000106,Canterbury,Wellbeing,BelowMedian,None
-E07000107,Dartford,Wellbeing,BelowMedian,None
-E07000108,Dover,Wellbeing,BelowMedian,None
-E07000109,Gravesham,Wellbeing,BelowMedian,None
-E07000110,Maidstone,Wellbeing,BelowMedian,None
-E07000111,Sevenoaks,Wellbeing,BelowMedian,None
-E07000112,Folkestone and Hythe,Wellbeing,BelowMedian,None
-E07000113,Swale,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000114,Thanet,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000115,Tonbridge and Malling,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000116,Tunbridge Wells,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000117,Burnley,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000118,Chorley,Wellbeing,BelowMedian,None
-E07000119,Fylde,Wellbeing,BelowMedian,None
-E07000120,Hyndburn,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000121,Lancaster,Wellbeing,BelowMedian,None
-E07000122,Pendle,Wellbeing,BelowMedian,None
-E07000123,Preston,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000124,Ribble Valley,Wellbeing,BelowMedian,None
-E07000125,Rossendale,Wellbeing,BelowMedian,None
-E07000126,South Ribble,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000127,West Lancashire,Wellbeing,BelowMedian,None
-E07000128,Wyre,Wellbeing,BelowMedian,None
-E07000129,Blaby,Wellbeing,BelowMedian,None
-E07000130,Charnwood,Wellbeing,BelowMedian,None
-E07000131,Harborough,Wellbeing,BelowMedian,None
-E07000132,Hinckley and Bosworth,Wellbeing,BelowMedian,None
-E07000133,Melton,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000134,North West Leicestershire,Wellbeing,BelowMedian,None
-E07000135,Oadby and Wigston,Wellbeing,BelowMedian,None
-E07000136,Boston,Wellbeing,BelowMedian,None
-E07000137,East Lindsey,Wellbeing,BelowMedian,None
-E07000138,Lincoln,Wellbeing,BelowMedian,None
-E07000139,North Kesteven,Wellbeing,BelowMedian,None
-E07000140,South Holland,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000141,South Kesteven,Wellbeing,BelowMedian,None
-E07000142,West Lindsey,Wellbeing,BelowMedian,None
-E07000143,Breckland,Wellbeing,BelowMedian,None
-E07000144,Broadland,Wellbeing,BelowMedian,None
-E07000145,Great Yarmouth,Wellbeing,BelowMedian,None
-E07000146,King's Lynn and West Norfolk,Wellbeing,BelowMedian,None
-E07000147,North Norfolk,Wellbeing,BelowMedian,None
-E07000148,Norwich,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000149,South Norfolk,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000163,Craven,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000164,Hambleton,Wellbeing,BelowMedian,None
-E07000165,Harrogate,Wellbeing,BelowMedian,None
-E07000166,Richmondshire,Wellbeing,BelowMedian,None
-E07000167,Ryedale,Wellbeing,BelowMedian,None
-E07000168,Scarborough,Wellbeing,BelowMedian,None
-E07000169,Selby,Wellbeing,BelowMedian,None
-E07000170,Ashfield,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000171,Bassetlaw,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000172,Broxtowe,Wellbeing,BelowMedian,None
-E07000173,Gedling,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000174,Mansfield,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000175,Newark and Sherwood,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000176,Rushcliffe,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000177,Cherwell,Wellbeing,BelowMedian,None
-E07000178,Oxford,Wellbeing,BelowMedian,None
-E07000179,South Oxfordshire,Wellbeing,BelowMedian,None
-E07000180,Vale of White Horse,Wellbeing,BelowMedian,None
-E07000181,West Oxfordshire,Wellbeing,BelowMedian,None
-E07000187,Mendip,Wellbeing,BelowMedian,None
-E07000188,Sedgemoor,Wellbeing,BelowMedian,None
-E07000189,South Somerset,Wellbeing,BelowMedian,None
-E07000192,Cannock Chase,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000193,East Staffordshire,Wellbeing,BelowMedian,None
-E07000194,Lichfield,Wellbeing,BelowMedian,None
-E07000195,Newcastle-under-Lyme,Wellbeing,BelowMedian,None
-E07000196,South Staffordshire,Wellbeing,BelowMedian,None
-E07000197,Stafford,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000198,Staffordshire Moorlands,Wellbeing,BelowMedian,None
-E07000199,Tamworth,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000200,Babergh,Wellbeing,BelowMedian,None
-E07000202,Ipswich,Wellbeing,BelowMedian,None
-E07000203,Mid Suffolk,Wellbeing,BelowMedian,None
-E07000207,Elmbridge,Wellbeing,BelowMedian,None
-E07000208,Epsom and Ewell,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000209,Guildford,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000210,Mole Valley,Wellbeing,BelowMedian,None
-E07000211,Reigate and Banstead,Wellbeing,BelowMedian,None
-E07000212,Runnymede,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000213,Spelthorne,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000214,Surrey Heath,Wellbeing,BelowMedian,None
-E07000215,Tandridge,Wellbeing,BelowMedian,None
-E07000216,Waverley,Wellbeing,BelowMedian,None
-E07000217,Woking,Wellbeing,BelowMedian,None
-E07000218,North Warwickshire,Wellbeing,BelowMedian,None
-E07000219,Nuneaton and Bedworth,Wellbeing,BelowMedian,None
-E07000220,Rugby,Wellbeing,BelowMedian,None
-E07000221,Stratford-on-Avon,Wellbeing,BelowMedian,None
-E07000222,Warwick,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000223,Adur,Wellbeing,BelowMedian,None
-E07000224,Arun,Wellbeing,BelowMedian,None
-E07000225,Chichester,Wellbeing,BelowMedian,None
-E07000226,Crawley,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000227,Horsham,Wellbeing,BelowMedian,None
-E07000228,Mid Sussex,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000229,Worthing,Wellbeing,BelowMedian,None
-E07000234,Bromsgrove,Wellbeing,BelowMedian,None
-E07000235,Malvern Hills,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000236,Redditch,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000237,Worcester,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E07000238,Wychavon,Wellbeing,BelowMedian,None
-E07000239,Wyre Forest,Wellbeing,BelowMedian,None
-E07000240,St Albans,Wellbeing,BelowMedian,None
-E07000241,Welwyn Hatfield,Wellbeing,BelowMedian,None
-E07000242,East Hertfordshire,Wellbeing,BelowMedian,None
-E07000243,Stevenage,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E07000244,East Suffolk,Wellbeing,BelowMedian,None
-E07000245,West Suffolk,Wellbeing,BelowMedian,None
-E07000246,Somerset West and Taunton,Wellbeing,BelowMedian,None
-E08000001,Bolton,Wellbeing,BelowMedian,None
-E08000002,Bury,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000003,Manchester,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000004,Oldham,Wellbeing,BelowMedian,None
-E08000005,Rochdale,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000006,Salford,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000007,Stockport,Wellbeing,BelowMedian,None
-E08000008,Tameside,Wellbeing,BelowMedian,None
-E08000009,Trafford,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000010,Wigan,Wellbeing,BelowMedian,None
-E08000011,Knowsley,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000012,Liverpool,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000013,St. Helens,Wellbeing,BelowMedian,None
-E08000014,Sefton,Wellbeing,BelowMedian,None
-E08000015,Wirral,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000016,Barnsley,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000017,Doncaster,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000018,Rotherham,Wellbeing,BelowMedian,None
-E08000019,Sheffield,Wellbeing,BelowMedian,None
-E08000021,Newcastle upon Tyne,Wellbeing,BelowMedian,None
-E08000022,North Tyneside,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000023,South Tyneside,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000024,Sunderland,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000025,Birmingham,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000026,Coventry,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000027,Dudley,Wellbeing,BelowMedian,None
-E08000028,Sandwell,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000029,Solihull,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000030,Walsall,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E08000031,Wolverhampton,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000032,Bradford,Wellbeing,BelowMedian,None
-E08000033,Calderdale,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E08000034,Kirklees,Wellbeing,BelowMedian,None
-E08000035,Leeds,Wellbeing,BelowMedian,None
-E08000036,Wakefield,Wellbeing,BelowMedian,None
-E08000037,Gateshead,Wellbeing,BelowMedian,None
-E09000001,City of London,Wellbeing,BelowMedian,null
-E09000002,Barking and Dagenham,Wellbeing,BelowMedian,None
-E09000003,Barnet,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000004,Bexley,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000005,Brent,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000006,Bromley,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000007,Camden,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000008,Croydon,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000009,Ealing,Wellbeing,BelowMedian,None
-E09000010,Enfield,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000011,Greenwich,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000012,Hackney,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000013,Hammersmith and Fulham,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000014,Haringey,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000015,Harrow,Wellbeing,BelowMedian,None
-E09000016,Havering,Wellbeing,BelowMedian,None
-E09000017,Hillingdon,Wellbeing,BelowMedian,None
-E09000018,Hounslow,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000019,Islington,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000020,Kensington and Chelsea,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000021,Kingston upon Thames,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000022,Lambeth,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000023,Lewisham,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000024,Merton,Wellbeing,BelowMedian,None
-E09000025,Newham,Wellbeing,BelowMedian,None
-E09000026,Redbridge,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000027,Richmond upon Thames,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000028,Southwark,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000029,Sutton,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000030,Tower Hamlets,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000031,Waltham Forest,Wellbeing,BelowMedian,life satisfaction and feeling life is worthwhile
-E09000032,Wandsworth,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
-E09000033,Westminster,Wellbeing,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000001,Hartlepool,Well-being,Region,South East and East of England
+E06000002,Middlesbrough,Well-being,Region,"South West, West Midlands, North West and London"
+E06000003,Redcar and Cleveland,Well-being,Region,"South West, West Midlands, North West and London"
+E06000004,Stockton-on-Tees,Well-being,Region,"London, South East and North West"
+E06000005,Darlington,Well-being,Region,"London, South East and North West"
+E06000006,Halton,Well-being,Region,"London, South East and North West"
+E06000007,Warrington,Well-being,Region,"South West, West Midlands, North West and London"
+E06000008,Blackburn with Darwen,Well-being,Region,"London, South East and North West"
+E06000009,Blackpool,Well-being,Region,"London, South East and North West"
+E06000010,"Kingston upon Hull, City of",Well-being,Region,"London, South East and North West"
+E06000011,East Riding of Yorkshire,Well-being,Region,"South East, East of England and East Midlands"
+E06000012,North East Lincolnshire,Well-being,Region,South East and East of England
+E06000013,North Lincolnshire,Well-being,Region,"South East, East of England and East Midlands"
+E06000014,York,Well-being,Region,South East and East of England
+E06000015,Derby,Well-being,Region,"London, South East and North West"
+E06000016,Leicester,Well-being,Region,South East and East of England
+E06000017,Rutland,Well-being,Region,"South East, East of England and East Midlands"
+E06000018,Nottingham,Well-being,Region,"London, South East and North West"
+E06000019,"Herefordshire, County of",Well-being,Region,South East and East of England
+E06000020,Telford and Wrekin,Well-being,Region,"London, South East and North West"
+E06000021,Stoke-on-Trent,Well-being,Region,South East and East of England
+E06000022,Bath and North East Somerset,Well-being,Region,South East and East of England
+E06000023,"Bristol, City of",Well-being,Region,"London, South East and North West"
+E06000024,North Somerset,Well-being,Region,South East and East of England
+E06000025,South Gloucestershire,Well-being,Region,"South West, West Midlands, North West and London"
+E06000026,Plymouth,Well-being,Region,"South West, West Midlands, North West and London"
+E06000027,Torbay,Well-being,Region,"South West, West Midlands, North West and London"
+E06000030,Swindon,Well-being,Region,South East and East of England
+E06000031,Peterborough,Well-being,Region,"London, South East and North West"
+E06000032,Luton,Well-being,Region,"South East, East of England and East Midlands"
+E06000033,Southend-on-Sea,Well-being,Region,South East and East of England
+E06000034,Thurrock,Well-being,Region,South East and East of England
+E06000035,Medway,Well-being,Region,"London, South East and North West"
+E06000036,Bracknell Forest,Well-being,Region,"London, South East and North West"
+E06000037,West Berkshire,Well-being,Region,South East and East of England
+E06000038,Reading,Well-being,Region,"London, South East and North West"
+E06000039,Slough,Well-being,Region,"London, South East and North West"
+E06000040,Windsor and Maidenhead,Well-being,Region,"London, South East and North West"
+E06000041,Wokingham,Well-being,Region,"London, South East and North West"
+E06000042,Milton Keynes,Well-being,Region,"London, South East and North West"
+E06000043,Brighton and Hove,Well-being,Region,"London, South East and North West"
+E06000044,Portsmouth,Well-being,Region,"London, South East and North West"
+E06000045,Southampton,Well-being,Region,"London, South East and North West"
+E06000046,Isle of Wight,Well-being,Region,"London, South East and North West"
+E06000047,County Durham,Well-being,Region,"South West, West Midlands, North West and London"
+E06000049,Cheshire East,Well-being,Region,South East and East of England
+E06000050,Cheshire West and Chester,Well-being,Region,"South West, West Midlands, North West and London"
+E06000051,Shropshire,Well-being,Region,South East and East of England
+E06000052,Cornwall,Well-being,Region,South East and East of England
+E06000053,Isles of Scilly,Well-being,Region,null
+E06000054,Wiltshire,Well-being,Region,"South West, West Midlands, North West and London"
+E06000055,Bedford,Well-being,Region,"South East, East of England and East Midlands"
+E06000056,Central Bedfordshire,Well-being,Region,"South East, East of England and East Midlands"
+E06000057,Northumberland,Well-being,Region,South East and East of England
+E06000058,"Bournemouth, Christchurch and Poole",Well-being,Region,"South West, West Midlands, North West and London"
+E06000059,Dorset,Well-being,Region,"South East, East of England and East Midlands"
+E06000060,Buckinghamshire,Well-being,Region,"South East, East of England and East Midlands"
+E06000061,North Northamptonshire,Well-being,Region,"South West, West Midlands, North West and London"
+E06000062,West Northamptonshire,Well-being,Region,South East and East of England
+E07000008,Cambridge,Well-being,Region,South East and East of England
+E07000009,East Cambridgeshire,Well-being,Region,"South East, East of England and East Midlands"
+E07000010,Fenland,Well-being,Region,"South West, West Midlands, North West and London"
+E07000011,Huntingdonshire,Well-being,Region,"South East, East of England and East Midlands"
+E07000012,South Cambridgeshire,Well-being,Region,South East and East of England
+E07000026,Allerdale,Well-being,Region,"South West, West Midlands, North West and London"
+E07000027,Barrow-in-Furness,Well-being,Region,"London, South East and North West"
+E07000028,Carlisle,Well-being,Region,South East and East of England
+E07000029,Copeland,Well-being,Region,"South West, West Midlands, North West and London"
+E07000030,Eden,Well-being,Region,"South West, West Midlands, North West and London"
+E07000031,South Lakeland,Well-being,Region,"South East, East of England and East Midlands"
+E07000032,Amber Valley,Well-being,Region,"South East, East of England and East Midlands"
+E07000033,Bolsover,Well-being,Region,South East and East of England
+E07000034,Chesterfield,Well-being,Region,"London, South East and North West"
+E07000035,Derbyshire Dales,Well-being,Region,South East and East of England
+E07000036,Erewash,Well-being,Region,South East and East of England
+E07000037,High Peak,Well-being,Region,"South East, East of England and East Midlands"
+E07000038,North East Derbyshire,Well-being,Region,South East and East of England
+E07000039,South Derbyshire,Well-being,Region,South East and East of England
+E07000040,East Devon,Well-being,Region,South East and East of England
+E07000041,Exeter,Well-being,Region,"London, South East and North West"
+E07000042,Mid Devon,Well-being,Region,"South East, East of England and East Midlands"
+E07000043,North Devon,Well-being,Region,"South East, East of England and East Midlands"
+E07000044,South Hams,Well-being,Region,"South East, East of England and East Midlands"
+E07000045,Teignbridge,Well-being,Region,"South East, East of England and East Midlands"
+E07000046,Torridge,Well-being,Region,"South East, East of England and East Midlands"
+E07000047,West Devon,Well-being,Region,"South East, East of England and East Midlands"
+E07000061,Eastbourne,Well-being,Region,South East and East of England
+E07000062,Hastings,Well-being,Region,"South East, East of England and East Midlands"
+E07000063,Lewes,Well-being,Region,South East and East of England
+E07000064,Rother,Well-being,Region,"South East, East of England and East Midlands"
+E07000065,Wealden,Well-being,Region,"South East, East of England and East Midlands"
+E07000066,Basildon,Well-being,Region,"South East, East of England and East Midlands"
+E07000067,Braintree,Well-being,Region,"South East, East of England and East Midlands"
+E07000068,Brentwood,Well-being,Region,South East and East of England
+E07000069,Castle Point,Well-being,Region,"South East, East of England and East Midlands"
+E07000070,Chelmsford,Well-being,Region,South East and East of England
+E07000071,Colchester,Well-being,Region,"London, South East and North West"
+E07000072,Epping Forest,Well-being,Region,South East and East of England
+E07000073,Harlow,Well-being,Region,South East and East of England
+E07000074,Maldon,Well-being,Region,South East and East of England
+E07000075,Rochford,Well-being,Region,"South East, East of England and East Midlands"
+E07000076,Tendring,Well-being,Region,South East and East of England
+E07000077,Uttlesford,Well-being,Region,"South East, East of England and East Midlands"
+E07000078,Cheltenham,Well-being,Region,"South West, West Midlands, North West and London"
+E07000079,Cotswold,Well-being,Region,"South East, East of England and East Midlands"
+E07000080,Forest of Dean,Well-being,Region,"South West, West Midlands, North West and London"
+E07000081,Gloucester,Well-being,Region,"South West, West Midlands, North West and London"
+E07000082,Stroud,Well-being,Region,"South West, West Midlands, North West and London"
+E07000083,Tewkesbury,Well-being,Region,"South West, West Midlands, North West and London"
+E07000084,Basingstoke and Deane,Well-being,Region,South East and East of England
+E07000085,East Hampshire,Well-being,Region,South East and East of England
+E07000086,Eastleigh,Well-being,Region,"South East, East of England and East Midlands"
+E07000087,Fareham,Well-being,Region,"South East, East of England and East Midlands"
+E07000088,Gosport,Well-being,Region,South East and East of England
+E07000089,Hart,Well-being,Region,South East and East of England
+E07000090,Havant,Well-being,Region,"South East, East of England and East Midlands"
+E07000091,New Forest,Well-being,Region,"South East, East of England and East Midlands"
+E07000092,Rushmoor,Well-being,Region,South East and East of England
+E07000093,Test Valley,Well-being,Region,"South East, East of England and East Midlands"
+E07000094,Winchester,Well-being,Region,"South East, East of England and East Midlands"
+E07000095,Broxbourne,Well-being,Region,"South West, West Midlands, North West and London"
+E07000096,Dacorum,Well-being,Region,"South West, West Midlands, North West and London"
+E07000098,Hertsmere,Well-being,Region,"South West, West Midlands, North West and London"
+E07000099,North Hertfordshire,Well-being,Region,"South East, East of England and East Midlands"
+E07000102,Three Rivers,Well-being,Region,"South East, East of England and East Midlands"
+E07000103,Watford,Well-being,Region,South East and East of England
+E07000105,Ashford,Well-being,Region,South East and East of England
+E07000106,Canterbury,Well-being,Region,South East and East of England
+E07000107,Dartford,Well-being,Region,"South East, East of England and East Midlands"
+E07000108,Dover,Well-being,Region,South East and East of England
+E07000109,Gravesham,Well-being,Region,South East and East of England
+E07000110,Maidstone,Well-being,Region,South East and East of England
+E07000111,Sevenoaks,Well-being,Region,"South East, East of England and East Midlands"
+E07000112,Folkestone and Hythe,Well-being,Region,South East and East of England
+E07000113,Swale,Well-being,Region,"South West, West Midlands, North West and London"
+E07000114,Thanet,Well-being,Region,"London, South East and North West"
+E07000115,Tonbridge and Malling,Well-being,Region,"South West, West Midlands, North West and London"
+E07000116,Tunbridge Wells,Well-being,Region,"London, South East and North West"
+E07000117,Burnley,Well-being,Region,"South West, West Midlands, North West and London"
+E07000118,Chorley,Well-being,Region,"South East, East of England and East Midlands"
+E07000119,Fylde,Well-being,Region,"South East, East of England and East Midlands"
+E07000120,Hyndburn,Well-being,Region,"South West, West Midlands, North West and London"
+E07000121,Lancaster,Well-being,Region,South East and East of England
+E07000122,Pendle,Well-being,Region,"South East, East of England and East Midlands"
+E07000123,Preston,Well-being,Region,"London, South East and North West"
+E07000124,Ribble Valley,Well-being,Region,South East and East of England
+E07000125,Rossendale,Well-being,Region,South East and East of England
+E07000126,South Ribble,Well-being,Region,"London, South East and North West"
+E07000127,West Lancashire,Well-being,Region,South East and East of England
+E07000128,Wyre,Well-being,Region,South East and East of England
+E07000129,Blaby,Well-being,Region,"South East, East of England and East Midlands"
+E07000130,Charnwood,Well-being,Region,"South East, East of England and East Midlands"
+E07000131,Harborough,Well-being,Region,South East and East of England
+E07000132,Hinckley and Bosworth,Well-being,Region,"South East, East of England and East Midlands"
+E07000133,Melton,Well-being,Region,"South West, West Midlands, North West and London"
+E07000134,North West Leicestershire,Well-being,Region,"South East, East of England and East Midlands"
+E07000135,Oadby and Wigston,Well-being,Region,"South East, East of England and East Midlands"
+E07000136,Boston,Well-being,Region,South East and East of England
+E07000137,East Lindsey,Well-being,Region,"South East, East of England and East Midlands"
+E07000138,Lincoln,Well-being,Region,South East and East of England
+E07000139,North Kesteven,Well-being,Region,"South East, East of England and East Midlands"
+E07000140,South Holland,Well-being,Region,"South West, West Midlands, North West and London"
+E07000141,South Kesteven,Well-being,Region,South East and East of England
+E07000142,West Lindsey,Well-being,Region,"South East, East of England and East Midlands"
+E07000143,Breckland,Well-being,Region,South East and East of England
+E07000144,Broadland,Well-being,Region,South East and East of England
+E07000145,Great Yarmouth,Well-being,Region,"South East, East of England and East Midlands"
+E07000146,King's Lynn and West Norfolk,Well-being,Region,South East and East of England
+E07000147,North Norfolk,Well-being,Region,South East and East of England
+E07000148,Norwich,Well-being,Region,"London, South East and North West"
+E07000149,South Norfolk,Well-being,Region,"South West, West Midlands, North West and London"
+E07000163,Craven,Well-being,Region,"London, South East and North West"
+E07000164,Hambleton,Well-being,Region,"South East, East of England and East Midlands"
+E07000165,Harrogate,Well-being,Region,"South East, East of England and East Midlands"
+E07000166,Richmondshire,Well-being,Region,"South East, East of England and East Midlands"
+E07000167,Ryedale,Well-being,Region,"South East, East of England and East Midlands"
+E07000168,Scarborough,Well-being,Region,"South East, East of England and East Midlands"
+E07000169,Selby,Well-being,Region,"South East, East of England and East Midlands"
+E07000170,Ashfield,Well-being,Region,"South West, West Midlands, North West and London"
+E07000171,Bassetlaw,Well-being,Region,"London, South East and North West"
+E07000172,Broxtowe,Well-being,Region,South East and East of England
+E07000173,Gedling,Well-being,Region,"London, South East and North West"
+E07000174,Mansfield,Well-being,Region,"London, South East and North West"
+E07000175,Newark and Sherwood,Well-being,Region,"London, South East and North West"
+E07000176,Rushcliffe,Well-being,Region,"London, South East and North West"
+E07000177,Cherwell,Well-being,Region,"South East, East of England and East Midlands"
+E07000178,Oxford,Well-being,Region,"South East, East of England and East Midlands"
+E07000179,South Oxfordshire,Well-being,Region,South East and East of England
+E07000180,Vale of White Horse,Well-being,Region,South East and East of England
+E07000181,West Oxfordshire,Well-being,Region,"South East, East of England and East Midlands"
+E07000187,Mendip,Well-being,Region,South East and East of England
+E07000188,Sedgemoor,Well-being,Region,South East and East of England
+E07000189,South Somerset,Well-being,Region,South East and East of England
+E07000192,Cannock Chase,Well-being,Region,"South West, West Midlands, North West and London"
+E07000193,East Staffordshire,Well-being,Region,South East and East of England
+E07000194,Lichfield,Well-being,Region,"South East, East of England and East Midlands"
+E07000195,Newcastle-under-Lyme,Well-being,Region,"South East, East of England and East Midlands"
+E07000196,South Staffordshire,Well-being,Region,"South East, East of England and East Midlands"
+E07000197,Stafford,Well-being,Region,"South West, West Midlands, North West and London"
+E07000198,Staffordshire Moorlands,Well-being,Region,"South East, East of England and East Midlands"
+E07000199,Tamworth,Well-being,Region,"South West, West Midlands, North West and London"
+E07000200,Babergh,Well-being,Region,"South East, East of England and East Midlands"
+E07000202,Ipswich,Well-being,Region,South East and East of England
+E07000203,Mid Suffolk,Well-being,Region,"South East, East of England and East Midlands"
+E07000207,Elmbridge,Well-being,Region,South East and East of England
+E07000208,Epsom and Ewell,Well-being,Region,"London, South East and North West"
+E07000209,Guildford,Well-being,Region,"South West, West Midlands, North West and London"
+E07000210,Mole Valley,Well-being,Region,"South East, East of England and East Midlands"
+E07000211,Reigate and Banstead,Well-being,Region,South East and East of England
+E07000212,Runnymede,Well-being,Region,"South West, West Midlands, North West and London"
+E07000213,Spelthorne,Well-being,Region,"London, South East and North West"
+E07000214,Surrey Heath,Well-being,Region,"South East, East of England and East Midlands"
+E07000215,Tandridge,Well-being,Region,"South East, East of England and East Midlands"
+E07000216,Waverley,Well-being,Region,South East and East of England
+E07000217,Woking,Well-being,Region,South East and East of England
+E07000218,North Warwickshire,Well-being,Region,South East and East of England
+E07000219,Nuneaton and Bedworth,Well-being,Region,South East and East of England
+E07000220,Rugby,Well-being,Region,South East and East of England
+E07000221,Stratford-on-Avon,Well-being,Region,South East and East of England
+E07000222,Warwick,Well-being,Region,"South West, West Midlands, North West and London"
+E07000223,Adur,Well-being,Region,South East and East of England
+E07000224,Arun,Well-being,Region,"South East, East of England and East Midlands"
+E07000225,Chichester,Well-being,Region,South East and East of England
+E07000226,Crawley,Well-being,Region,"London, South East and North West"
+E07000227,Horsham,Well-being,Region,South East and East of England
+E07000228,Mid Sussex,Well-being,Region,"London, South East and North West"
+E07000229,Worthing,Well-being,Region,South East and East of England
+E07000234,Bromsgrove,Well-being,Region,"South East, East of England and East Midlands"
+E07000235,Malvern Hills,Well-being,Region,"London, South East and North West"
+E07000236,Redditch,Well-being,Region,"London, South East and North West"
+E07000237,Worcester,Well-being,Region,"South West, West Midlands, North West and London"
+E07000238,Wychavon,Well-being,Region,South East and East of England
+E07000239,Wyre Forest,Well-being,Region,South East and East of England
+E07000240,St Albans,Well-being,Region,South East and East of England
+E07000241,Welwyn Hatfield,Well-being,Region,South East and East of England
+E07000242,East Hertfordshire,Well-being,Region,South East and East of England
+E07000243,Stevenage,Well-being,Region,"London, South East and North West"
+E07000244,East Suffolk,Well-being,Region,"South East, East of England and East Midlands"
+E07000245,West Suffolk,Well-being,Region,"South East, East of England and East Midlands"
+E07000246,Somerset West and Taunton,Well-being,Region,"South East, East of England and East Midlands"
+E08000001,Bolton,Well-being,Region,South East and East of England
+E08000002,Bury,Well-being,Region,"London, South East and North West"
+E08000003,Manchester,Well-being,Region,"London, South East and North West"
+E08000004,Oldham,Well-being,Region,South East and East of England
+E08000005,Rochdale,Well-being,Region,"South West, West Midlands, North West and London"
+E08000006,Salford,Well-being,Region,"London, South East and North West"
+E08000007,Stockport,Well-being,Region,South East and East of England
+E08000008,Tameside,Well-being,Region,South East and East of England
+E08000009,Trafford,Well-being,Region,"London, South East and North West"
+E08000010,Wigan,Well-being,Region,"South East, East of England and East Midlands"
+E08000011,Knowsley,Well-being,Region,"London, South East and North West"
+E08000012,Liverpool,Well-being,Region,"London, South East and North West"
+E08000013,St. Helens,Well-being,Region,South East and East of England
+E08000014,Sefton,Well-being,Region,South East and East of England
+E08000015,Wirral,Well-being,Region,"London, South East and North West"
+E08000016,Barnsley,Well-being,Region,"London, South East and North West"
+E08000017,Doncaster,Well-being,Region,"South West, West Midlands, North West and London"
+E08000018,Rotherham,Well-being,Region,South East and East of England
+E08000019,Sheffield,Well-being,Region,South East and East of England
+E08000021,Newcastle upon Tyne,Well-being,Region,South East and East of England
+E08000022,North Tyneside,Well-being,Region,"London, South East and North West"
+E08000023,South Tyneside,Well-being,Region,"South West, West Midlands, North West and London"
+E08000024,Sunderland,Well-being,Region,"London, South East and North West"
+E08000025,Birmingham,Well-being,Region,"London, South East and North West"
+E08000026,Coventry,Well-being,Region,"South West, West Midlands, North West and London"
+E08000027,Dudley,Well-being,Region,South East and East of England
+E08000028,Sandwell,Well-being,Region,"South West, West Midlands, North West and London"
+E08000029,Solihull,Well-being,Region,"South West, West Midlands, North West and London"
+E08000030,Walsall,Well-being,Region,"London, South East and North West"
+E08000031,Wolverhampton,Well-being,Region,"South West, West Midlands, North West and London"
+E08000032,Bradford,Well-being,Region,South East and East of England
+E08000033,Calderdale,Well-being,Region,"South West, West Midlands, North West and London"
+E08000034,Kirklees,Well-being,Region,"South East, East of England and East Midlands"
+E08000035,Leeds,Well-being,Region,South East and East of England
+E08000036,Wakefield,Well-being,Region,South East and East of England
+E08000037,Gateshead,Well-being,Region,South East and East of England
+E09000001,City of London,Well-being,Region,null
+E09000002,Barking and Dagenham,Well-being,Region,"South East, East of England and East Midlands"
+E09000003,Barnet,Well-being,Region,"South West, West Midlands, North West and London"
+E09000004,Bexley,Well-being,Region,"South West, West Midlands, North West and London"
+E09000005,Brent,Well-being,Region,"London, South East and North West"
+E09000006,Bromley,Well-being,Region,"London, South East and North West"
+E09000007,Camden,Well-being,Region,"London, South East and North West"
+E09000008,Croydon,Well-being,Region,"London, South East and North West"
+E09000009,Ealing,Well-being,Region,South East and East of England
+E09000010,Enfield,Well-being,Region,"London, South East and North West"
+E09000011,Greenwich,Well-being,Region,"London, South East and North West"
+E09000012,Hackney,Well-being,Region,"London, South East and North West"
+E09000013,Hammersmith and Fulham,Well-being,Region,"London, South East and North West"
+E09000014,Haringey,Well-being,Region,"London, South East and North West"
+E09000015,Harrow,Well-being,Region,South East and East of England
+E09000016,Havering,Well-being,Region,South East and East of England
+E09000017,Hillingdon,Well-being,Region,South East and East of England
+E09000018,Hounslow,Well-being,Region,"London, South East and North West"
+E09000019,Islington,Well-being,Region,"London, South East and North West"
+E09000020,Kensington and Chelsea,Well-being,Region,"London, South East and North West"
+E09000021,Kingston upon Thames,Well-being,Region,"London, South East and North West"
+E09000022,Lambeth,Well-being,Region,"London, South East and North West"
+E09000023,Lewisham,Well-being,Region,"South West, West Midlands, North West and London"
+E09000024,Merton,Well-being,Region,South East and East of England
+E09000025,Newham,Well-being,Region,"South East, East of England and East Midlands"
+E09000026,Redbridge,Well-being,Region,"South West, West Midlands, North West and London"
+E09000027,Richmond upon Thames,Well-being,Region,"London, South East and North West"
+E09000028,Southwark,Well-being,Region,"London, South East and North West"
+E09000029,Sutton,Well-being,Region,"South West, West Midlands, North West and London"
+E09000030,Tower Hamlets,Well-being,Region,"South West, West Midlands, North West and London"
+E09000031,Waltham Forest,Well-being,Region,"South West, West Midlands, North West and London"
+E09000032,Wandsworth,Well-being,Region,"London, South East and North West"
+E09000033,Westminster,Well-being,Region,"London, South East and North West"
+E06000001,Hartlepool,Well-being,urbanrural,urban and rural
+E06000002,Middlesbrough,Well-being,urbanrural,urban
+E06000003,Redcar and Cleveland,Well-being,urbanrural,urban
+E06000004,Stockton-on-Tees,Well-being,urbanrural,urban
+E06000005,Darlington,Well-being,urbanrural,urban
+E06000006,Halton,Well-being,urbanrural,urban
+E06000007,Warrington,Well-being,urbanrural,urban
+E06000008,Blackburn with Darwen,Well-being,urbanrural,urban
+E06000009,Blackpool,Well-being,urbanrural,urban
+E06000010,"Kingston upon Hull, City of",Well-being,urbanrural,urban
+E06000011,East Riding of Yorkshire,Well-being,urbanrural,urban and rural
+E06000012,North East Lincolnshire,Well-being,urbanrural,urban and rural
+E06000013,North Lincolnshire,Well-being,urbanrural,urban and rural
+E06000014,York,Well-being,urbanrural,urban and rural
+E06000015,Derby,Well-being,urbanrural,urban
+E06000016,Leicester,Well-being,urbanrural,urban and rural
+E06000017,Rutland,Well-being,urbanrural,urban and rural
+E06000018,Nottingham,Well-being,urbanrural,urban
+E06000019,"Herefordshire, County of",Well-being,urbanrural,urban and rural
+E06000020,Telford and Wrekin,Well-being,urbanrural,urban
+E06000021,Stoke-on-Trent,Well-being,urbanrural,urban and rural
+E06000022,Bath and North East Somerset,Well-being,urbanrural,urban and rural
+E06000023,"Bristol, City of",Well-being,urbanrural,urban
+E06000024,North Somerset,Well-being,urbanrural,urban and rural
+E06000025,South Gloucestershire,Well-being,urbanrural,urban
+E06000026,Plymouth,Well-being,urbanrural,urban
+E06000027,Torbay,Well-being,urbanrural,urban
+E06000030,Swindon,Well-being,urbanrural,urban and rural
+E06000031,Peterborough,Well-being,urbanrural,urban
+E06000032,Luton,Well-being,urbanrural,urban and rural
+E06000033,Southend-on-Sea,Well-being,urbanrural,urban and rural
+E06000034,Thurrock,Well-being,urbanrural,urban and rural
+E06000035,Medway,Well-being,urbanrural,urban
+E06000036,Bracknell Forest,Well-being,urbanrural,urban
+E06000037,West Berkshire,Well-being,urbanrural,urban and rural
+E06000038,Reading,Well-being,urbanrural,urban
+E06000039,Slough,Well-being,urbanrural,urban
+E06000040,Windsor and Maidenhead,Well-being,urbanrural,urban
+E06000041,Wokingham,Well-being,urbanrural,urban
+E06000042,Milton Keynes,Well-being,urbanrural,urban
+E06000043,Brighton and Hove,Well-being,urbanrural,urban
+E06000044,Portsmouth,Well-being,urbanrural,urban
+E06000045,Southampton,Well-being,urbanrural,urban
+E06000046,Isle of Wight,Well-being,urbanrural,urban
+E06000047,County Durham,Well-being,urbanrural,urban
+E06000049,Cheshire East,Well-being,urbanrural,urban and rural
+E06000050,Cheshire West and Chester,Well-being,urbanrural,urban
+E06000051,Shropshire,Well-being,urbanrural,urban and rural
+E06000052,Cornwall,Well-being,urbanrural,urban and rural
+E06000053,Isles of Scilly,Well-being,urbanrural,null
+E06000054,Wiltshire,Well-being,urbanrural,urban
+E06000055,Bedford,Well-being,urbanrural,urban and rural
+E06000056,Central Bedfordshire,Well-being,urbanrural,urban and rural
+E06000057,Northumberland,Well-being,urbanrural,urban and rural
+E06000058,"Bournemouth, Christchurch and Poole",Well-being,urbanrural,urban
+E06000059,Dorset,Well-being,urbanrural,urban and rural
+E06000060,Buckinghamshire,Well-being,urbanrural,urban and rural
+E06000061,North Northamptonshire,Well-being,urbanrural,urban
+E06000062,West Northamptonshire,Well-being,urbanrural,urban and rural
+E07000008,Cambridge,Well-being,urbanrural,urban and rural
+E07000009,East Cambridgeshire,Well-being,urbanrural,urban and rural
+E07000010,Fenland,Well-being,urbanrural,urban
+E07000011,Huntingdonshire,Well-being,urbanrural,urban and rural
+E07000012,South Cambridgeshire,Well-being,urbanrural,urban and rural
+E07000026,Allerdale,Well-being,urbanrural,urban
+E07000027,Barrow-in-Furness,Well-being,urbanrural,urban
+E07000028,Carlisle,Well-being,urbanrural,urban and rural
+E07000029,Copeland,Well-being,urbanrural,urban
+E07000030,Eden,Well-being,urbanrural,urban
+E07000031,South Lakeland,Well-being,urbanrural,urban and rural
+E07000032,Amber Valley,Well-being,urbanrural,urban and rural
+E07000033,Bolsover,Well-being,urbanrural,urban and rural
+E07000034,Chesterfield,Well-being,urbanrural,urban
+E07000035,Derbyshire Dales,Well-being,urbanrural,urban and rural
+E07000036,Erewash,Well-being,urbanrural,urban and rural
+E07000037,High Peak,Well-being,urbanrural,urban and rural
+E07000038,North East Derbyshire,Well-being,urbanrural,urban and rural
+E07000039,South Derbyshire,Well-being,urbanrural,urban and rural
+E07000040,East Devon,Well-being,urbanrural,urban and rural
+E07000041,Exeter,Well-being,urbanrural,urban
+E07000042,Mid Devon,Well-being,urbanrural,urban and rural
+E07000043,North Devon,Well-being,urbanrural,urban and rural
+E07000044,South Hams,Well-being,urbanrural,urban and rural
+E07000045,Teignbridge,Well-being,urbanrural,urban and rural
+E07000046,Torridge,Well-being,urbanrural,urban and rural
+E07000047,West Devon,Well-being,urbanrural,urban and rural
+E07000061,Eastbourne,Well-being,urbanrural,urban and rural
+E07000062,Hastings,Well-being,urbanrural,urban and rural
+E07000063,Lewes,Well-being,urbanrural,urban and rural
+E07000064,Rother,Well-being,urbanrural,urban and rural
+E07000065,Wealden,Well-being,urbanrural,urban and rural
+E07000066,Basildon,Well-being,urbanrural,urban and rural
+E07000067,Braintree,Well-being,urbanrural,urban and rural
+E07000068,Brentwood,Well-being,urbanrural,urban and rural
+E07000069,Castle Point,Well-being,urbanrural,urban and rural
+E07000070,Chelmsford,Well-being,urbanrural,urban and rural
+E07000071,Colchester,Well-being,urbanrural,urban
+E07000072,Epping Forest,Well-being,urbanrural,urban and rural
+E07000073,Harlow,Well-being,urbanrural,urban and rural
+E07000074,Maldon,Well-being,urbanrural,urban and rural
+E07000075,Rochford,Well-being,urbanrural,urban and rural
+E07000076,Tendring,Well-being,urbanrural,urban and rural
+E07000077,Uttlesford,Well-being,urbanrural,urban and rural
+E07000078,Cheltenham,Well-being,urbanrural,urban
+E07000079,Cotswold,Well-being,urbanrural,urban and rural
+E07000080,Forest of Dean,Well-being,urbanrural,urban
+E07000081,Gloucester,Well-being,urbanrural,urban
+E07000082,Stroud,Well-being,urbanrural,urban
+E07000083,Tewkesbury,Well-being,urbanrural,urban
+E07000084,Basingstoke and Deane,Well-being,urbanrural,urban and rural
+E07000085,East Hampshire,Well-being,urbanrural,urban and rural
+E07000086,Eastleigh,Well-being,urbanrural,urban and rural
+E07000087,Fareham,Well-being,urbanrural,urban and rural
+E07000088,Gosport,Well-being,urbanrural,urban and rural
+E07000089,Hart,Well-being,urbanrural,urban and rural
+E07000090,Havant,Well-being,urbanrural,urban and rural
+E07000091,New Forest,Well-being,urbanrural,urban and rural
+E07000092,Rushmoor,Well-being,urbanrural,urban and rural
+E07000093,Test Valley,Well-being,urbanrural,urban and rural
+E07000094,Winchester,Well-being,urbanrural,urban and rural
+E07000095,Broxbourne,Well-being,urbanrural,urban
+E07000096,Dacorum,Well-being,urbanrural,urban
+E07000098,Hertsmere,Well-being,urbanrural,urban
+E07000099,North Hertfordshire,Well-being,urbanrural,urban and rural
+E07000102,Three Rivers,Well-being,urbanrural,urban and rural
+E07000103,Watford,Well-being,urbanrural,urban and rural
+E07000105,Ashford,Well-being,urbanrural,urban and rural
+E07000106,Canterbury,Well-being,urbanrural,urban and rural
+E07000107,Dartford,Well-being,urbanrural,urban and rural
+E07000108,Dover,Well-being,urbanrural,urban and rural
+E07000109,Gravesham,Well-being,urbanrural,urban and rural
+E07000110,Maidstone,Well-being,urbanrural,urban and rural
+E07000111,Sevenoaks,Well-being,urbanrural,urban and rural
+E07000112,Folkestone and Hythe,Well-being,urbanrural,urban and rural
+E07000113,Swale,Well-being,urbanrural,urban
+E07000114,Thanet,Well-being,urbanrural,urban
+E07000115,Tonbridge and Malling,Well-being,urbanrural,urban
+E07000116,Tunbridge Wells,Well-being,urbanrural,urban
+E07000117,Burnley,Well-being,urbanrural,urban
+E07000118,Chorley,Well-being,urbanrural,urban and rural
+E07000119,Fylde,Well-being,urbanrural,urban and rural
+E07000120,Hyndburn,Well-being,urbanrural,urban
+E07000121,Lancaster,Well-being,urbanrural,urban and rural
+E07000122,Pendle,Well-being,urbanrural,urban and rural
+E07000123,Preston,Well-being,urbanrural,urban
+E07000124,Ribble Valley,Well-being,urbanrural,urban and rural
+E07000125,Rossendale,Well-being,urbanrural,urban and rural
+E07000126,South Ribble,Well-being,urbanrural,urban
+E07000127,West Lancashire,Well-being,urbanrural,urban and rural
+E07000128,Wyre,Well-being,urbanrural,urban and rural
+E07000129,Blaby,Well-being,urbanrural,urban and rural
+E07000130,Charnwood,Well-being,urbanrural,urban and rural
+E07000131,Harborough,Well-being,urbanrural,urban and rural
+E07000132,Hinckley and Bosworth,Well-being,urbanrural,urban and rural
+E07000133,Melton,Well-being,urbanrural,urban
+E07000134,North West Leicestershire,Well-being,urbanrural,urban and rural
+E07000135,Oadby and Wigston,Well-being,urbanrural,urban and rural
+E07000136,Boston,Well-being,urbanrural,urban and rural
+E07000137,East Lindsey,Well-being,urbanrural,urban and rural
+E07000138,Lincoln,Well-being,urbanrural,urban and rural
+E07000139,North Kesteven,Well-being,urbanrural,urban and rural
+E07000140,South Holland,Well-being,urbanrural,urban
+E07000141,South Kesteven,Well-being,urbanrural,urban and rural
+E07000142,West Lindsey,Well-being,urbanrural,urban and rural
+E07000143,Breckland,Well-being,urbanrural,urban and rural
+E07000144,Broadland,Well-being,urbanrural,urban and rural
+E07000145,Great Yarmouth,Well-being,urbanrural,urban and rural
+E07000146,King's Lynn and West Norfolk,Well-being,urbanrural,urban and rural
+E07000147,North Norfolk,Well-being,urbanrural,urban and rural
+E07000148,Norwich,Well-being,urbanrural,urban
+E07000149,South Norfolk,Well-being,urbanrural,urban
+E07000163,Craven,Well-being,urbanrural,urban
+E07000164,Hambleton,Well-being,urbanrural,urban and rural
+E07000165,Harrogate,Well-being,urbanrural,urban and rural
+E07000166,Richmondshire,Well-being,urbanrural,urban and rural
+E07000167,Ryedale,Well-being,urbanrural,urban and rural
+E07000168,Scarborough,Well-being,urbanrural,urban and rural
+E07000169,Selby,Well-being,urbanrural,urban and rural
+E07000170,Ashfield,Well-being,urbanrural,urban
+E07000171,Bassetlaw,Well-being,urbanrural,urban
+E07000172,Broxtowe,Well-being,urbanrural,urban and rural
+E07000173,Gedling,Well-being,urbanrural,urban
+E07000174,Mansfield,Well-being,urbanrural,urban
+E07000175,Newark and Sherwood,Well-being,urbanrural,urban
+E07000176,Rushcliffe,Well-being,urbanrural,urban
+E07000177,Cherwell,Well-being,urbanrural,urban and rural
+E07000178,Oxford,Well-being,urbanrural,urban and rural
+E07000179,South Oxfordshire,Well-being,urbanrural,urban and rural
+E07000180,Vale of White Horse,Well-being,urbanrural,urban and rural
+E07000181,West Oxfordshire,Well-being,urbanrural,urban and rural
+E07000187,Mendip,Well-being,urbanrural,urban and rural
+E07000188,Sedgemoor,Well-being,urbanrural,urban and rural
+E07000189,South Somerset,Well-being,urbanrural,urban and rural
+E07000192,Cannock Chase,Well-being,urbanrural,urban
+E07000193,East Staffordshire,Well-being,urbanrural,urban and rural
+E07000194,Lichfield,Well-being,urbanrural,urban and rural
+E07000195,Newcastle-under-Lyme,Well-being,urbanrural,urban and rural
+E07000196,South Staffordshire,Well-being,urbanrural,urban and rural
+E07000197,Stafford,Well-being,urbanrural,urban
+E07000198,Staffordshire Moorlands,Well-being,urbanrural,urban and rural
+E07000199,Tamworth,Well-being,urbanrural,urban
+E07000200,Babergh,Well-being,urbanrural,urban and rural
+E07000202,Ipswich,Well-being,urbanrural,urban and rural
+E07000203,Mid Suffolk,Well-being,urbanrural,urban and rural
+E07000207,Elmbridge,Well-being,urbanrural,urban and rural
+E07000208,Epsom and Ewell,Well-being,urbanrural,urban
+E07000209,Guildford,Well-being,urbanrural,urban
+E07000210,Mole Valley,Well-being,urbanrural,urban and rural
+E07000211,Reigate and Banstead,Well-being,urbanrural,urban and rural
+E07000212,Runnymede,Well-being,urbanrural,urban
+E07000213,Spelthorne,Well-being,urbanrural,urban
+E07000214,Surrey Heath,Well-being,urbanrural,urban and rural
+E07000215,Tandridge,Well-being,urbanrural,urban and rural
+E07000216,Waverley,Well-being,urbanrural,urban and rural
+E07000217,Woking,Well-being,urbanrural,urban and rural
+E07000218,North Warwickshire,Well-being,urbanrural,urban and rural
+E07000219,Nuneaton and Bedworth,Well-being,urbanrural,urban and rural
+E07000220,Rugby,Well-being,urbanrural,urban and rural
+E07000221,Stratford-on-Avon,Well-being,urbanrural,urban and rural
+E07000222,Warwick,Well-being,urbanrural,urban
+E07000223,Adur,Well-being,urbanrural,urban and rural
+E07000224,Arun,Well-being,urbanrural,urban and rural
+E07000225,Chichester,Well-being,urbanrural,urban and rural
+E07000226,Crawley,Well-being,urbanrural,urban
+E07000227,Horsham,Well-being,urbanrural,urban and rural
+E07000228,Mid Sussex,Well-being,urbanrural,urban
+E07000229,Worthing,Well-being,urbanrural,urban and rural
+E07000234,Bromsgrove,Well-being,urbanrural,urban and rural
+E07000235,Malvern Hills,Well-being,urbanrural,urban
+E07000236,Redditch,Well-being,urbanrural,urban
+E07000237,Worcester,Well-being,urbanrural,urban
+E07000238,Wychavon,Well-being,urbanrural,urban and rural
+E07000239,Wyre Forest,Well-being,urbanrural,urban and rural
+E07000240,St Albans,Well-being,urbanrural,urban and rural
+E07000241,Welwyn Hatfield,Well-being,urbanrural,urban and rural
+E07000242,East Hertfordshire,Well-being,urbanrural,urban and rural
+E07000243,Stevenage,Well-being,urbanrural,urban
+E07000244,East Suffolk,Well-being,urbanrural,urban and rural
+E07000245,West Suffolk,Well-being,urbanrural,urban and rural
+E07000246,Somerset West and Taunton,Well-being,urbanrural,urban and rural
+E08000001,Bolton,Well-being,urbanrural,urban and rural
+E08000002,Bury,Well-being,urbanrural,urban
+E08000003,Manchester,Well-being,urbanrural,urban
+E08000004,Oldham,Well-being,urbanrural,urban and rural
+E08000005,Rochdale,Well-being,urbanrural,urban
+E08000006,Salford,Well-being,urbanrural,urban
+E08000007,Stockport,Well-being,urbanrural,urban and rural
+E08000008,Tameside,Well-being,urbanrural,urban and rural
+E08000009,Trafford,Well-being,urbanrural,urban
+E08000010,Wigan,Well-being,urbanrural,urban and rural
+E08000011,Knowsley,Well-being,urbanrural,urban
+E08000012,Liverpool,Well-being,urbanrural,urban
+E08000013,St. Helens,Well-being,urbanrural,urban and rural
+E08000014,Sefton,Well-being,urbanrural,urban and rural
+E08000015,Wirral,Well-being,urbanrural,urban
+E08000016,Barnsley,Well-being,urbanrural,urban
+E08000017,Doncaster,Well-being,urbanrural,urban
+E08000018,Rotherham,Well-being,urbanrural,urban and rural
+E08000019,Sheffield,Well-being,urbanrural,urban and rural
+E08000021,Newcastle upon Tyne,Well-being,urbanrural,urban and rural
+E08000022,North Tyneside,Well-being,urbanrural,urban
+E08000023,South Tyneside,Well-being,urbanrural,urban
+E08000024,Sunderland,Well-being,urbanrural,urban
+E08000025,Birmingham,Well-being,urbanrural,urban
+E08000026,Coventry,Well-being,urbanrural,urban
+E08000027,Dudley,Well-being,urbanrural,urban and rural
+E08000028,Sandwell,Well-being,urbanrural,urban
+E08000029,Solihull,Well-being,urbanrural,urban
+E08000030,Walsall,Well-being,urbanrural,urban
+E08000031,Wolverhampton,Well-being,urbanrural,urban
+E08000032,Bradford,Well-being,urbanrural,urban and rural
+E08000033,Calderdale,Well-being,urbanrural,urban
+E08000034,Kirklees,Well-being,urbanrural,urban and rural
+E08000035,Leeds,Well-being,urbanrural,urban and rural
+E08000036,Wakefield,Well-being,urbanrural,urban and rural
+E08000037,Gateshead,Well-being,urbanrural,urban and rural
+E09000001,City of London,Well-being,urbanrural,null
+E09000002,Barking and Dagenham,Well-being,urbanrural,urban and rural
+E09000003,Barnet,Well-being,urbanrural,urban
+E09000004,Bexley,Well-being,urbanrural,urban
+E09000005,Brent,Well-being,urbanrural,urban
+E09000006,Bromley,Well-being,urbanrural,urban
+E09000007,Camden,Well-being,urbanrural,urban
+E09000008,Croydon,Well-being,urbanrural,urban
+E09000009,Ealing,Well-being,urbanrural,urban and rural
+E09000010,Enfield,Well-being,urbanrural,urban
+E09000011,Greenwich,Well-being,urbanrural,urban
+E09000012,Hackney,Well-being,urbanrural,urban
+E09000013,Hammersmith and Fulham,Well-being,urbanrural,urban
+E09000014,Haringey,Well-being,urbanrural,urban
+E09000015,Harrow,Well-being,urbanrural,urban and rural
+E09000016,Havering,Well-being,urbanrural,urban and rural
+E09000017,Hillingdon,Well-being,urbanrural,urban and rural
+E09000018,Hounslow,Well-being,urbanrural,urban
+E09000019,Islington,Well-being,urbanrural,urban
+E09000020,Kensington and Chelsea,Well-being,urbanrural,urban
+E09000021,Kingston upon Thames,Well-being,urbanrural,urban
+E09000022,Lambeth,Well-being,urbanrural,urban
+E09000023,Lewisham,Well-being,urbanrural,urban
+E09000024,Merton,Well-being,urbanrural,urban and rural
+E09000025,Newham,Well-being,urbanrural,urban and rural
+E09000026,Redbridge,Well-being,urbanrural,urban
+E09000027,Richmond upon Thames,Well-being,urbanrural,urban
+E09000028,Southwark,Well-being,urbanrural,urban
+E09000029,Sutton,Well-being,urbanrural,urban
+E09000030,Tower Hamlets,Well-being,urbanrural,urban
+E09000031,Waltham Forest,Well-being,urbanrural,urban
+E09000032,Wandsworth,Well-being,urbanrural,urban
+E09000033,Westminster,Well-being,urbanrural,urban
+E06000001,Hartlepool,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000002,Middlesbrough,Well-being,AboveMedian,anxiety
+E06000003,Redcar and Cleveland,Well-being,AboveMedian,anxiety
+E06000004,Stockton-on-Tees,Well-being,AboveMedian,None
+E06000005,Darlington,Well-being,AboveMedian,None
+E06000006,Halton,Well-being,AboveMedian,None
+E06000007,Warrington,Well-being,AboveMedian,anxiety
+E06000008,Blackburn with Darwen,Well-being,AboveMedian,None
+E06000009,Blackpool,Well-being,AboveMedian,None
+E06000010,"Kingston upon Hull, City of",Well-being,AboveMedian,None
+E06000011,East Riding of Yorkshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000012,North East Lincolnshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000013,North Lincolnshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000014,York,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000015,Derby,Well-being,AboveMedian,None
+E06000016,Leicester,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000017,Rutland,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000018,Nottingham,Well-being,AboveMedian,None
+E06000019,"Herefordshire, County of",Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000020,Telford and Wrekin,Well-being,AboveMedian,None
+E06000021,Stoke-on-Trent,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000022,Bath and North East Somerset,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000023,"Bristol, City of",Well-being,AboveMedian,None
+E06000024,North Somerset,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000025,South Gloucestershire,Well-being,AboveMedian,anxiety
+E06000026,Plymouth,Well-being,AboveMedian,anxiety
+E06000027,Torbay,Well-being,AboveMedian,anxiety
+E06000030,Swindon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000031,Peterborough,Well-being,AboveMedian,None
+E06000032,Luton,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000033,Southend-on-Sea,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000034,Thurrock,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000035,Medway,Well-being,AboveMedian,None
+E06000036,Bracknell Forest,Well-being,AboveMedian,None
+E06000037,West Berkshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000038,Reading,Well-being,AboveMedian,None
+E06000039,Slough,Well-being,AboveMedian,None
+E06000040,Windsor and Maidenhead,Well-being,AboveMedian,None
+E06000041,Wokingham,Well-being,AboveMedian,None
+E06000042,Milton Keynes,Well-being,AboveMedian,None
+E06000043,Brighton and Hove,Well-being,AboveMedian,None
+E06000044,Portsmouth,Well-being,AboveMedian,None
+E06000045,Southampton,Well-being,AboveMedian,None
+E06000046,Isle of Wight,Well-being,AboveMedian,None
+E06000047,County Durham,Well-being,AboveMedian,anxiety
+E06000049,Cheshire East,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000050,Cheshire West and Chester,Well-being,AboveMedian,anxiety
+E06000051,Shropshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000052,Cornwall,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000053,Isles of Scilly,Well-being,AboveMedian,null
+E06000054,Wiltshire,Well-being,AboveMedian,anxiety
+E06000055,Bedford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000056,Central Bedfordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000057,Northumberland,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000058,"Bournemouth, Christchurch and Poole",Well-being,AboveMedian,anxiety
+E06000059,Dorset,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000060,Buckinghamshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000061,North Northamptonshire,Well-being,AboveMedian,anxiety
+E06000062,West Northamptonshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000008,Cambridge,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000009,East Cambridgeshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000010,Fenland,Well-being,AboveMedian,anxiety
+E07000011,Huntingdonshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000012,South Cambridgeshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000026,Allerdale,Well-being,AboveMedian,anxiety
+E07000027,Barrow-in-Furness,Well-being,AboveMedian,None
+E07000028,Carlisle,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000029,Copeland,Well-being,AboveMedian,anxiety
+E07000030,Eden,Well-being,AboveMedian,anxiety
+E07000031,South Lakeland,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000032,Amber Valley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000033,Bolsover,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000034,Chesterfield,Well-being,AboveMedian,None
+E07000035,Derbyshire Dales,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000036,Erewash,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000037,High Peak,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000038,North East Derbyshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000039,South Derbyshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000040,East Devon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000041,Exeter,Well-being,AboveMedian,None
+E07000042,Mid Devon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000043,North Devon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000044,South Hams,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000045,Teignbridge,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000046,Torridge,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000047,West Devon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000061,Eastbourne,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000062,Hastings,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000063,Lewes,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000064,Rother,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000065,Wealden,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000066,Basildon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000067,Braintree,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000068,Brentwood,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000069,Castle Point,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000070,Chelmsford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000071,Colchester,Well-being,AboveMedian,None
+E07000072,Epping Forest,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000073,Harlow,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000074,Maldon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000075,Rochford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000076,Tendring,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000077,Uttlesford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000078,Cheltenham,Well-being,AboveMedian,anxiety
+E07000079,Cotswold,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000080,Forest of Dean,Well-being,AboveMedian,anxiety
+E07000081,Gloucester,Well-being,AboveMedian,anxiety
+E07000082,Stroud,Well-being,AboveMedian,anxiety
+E07000083,Tewkesbury,Well-being,AboveMedian,anxiety
+E07000084,Basingstoke and Deane,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000085,East Hampshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000086,Eastleigh,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000087,Fareham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000088,Gosport,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000089,Hart,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000090,Havant,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000091,New Forest,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000092,Rushmoor,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000093,Test Valley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000094,Winchester,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000095,Broxbourne,Well-being,AboveMedian,anxiety
+E07000096,Dacorum,Well-being,AboveMedian,anxiety
+E07000098,Hertsmere,Well-being,AboveMedian,anxiety
+E07000099,North Hertfordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000102,Three Rivers,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000103,Watford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000105,Ashford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000106,Canterbury,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000107,Dartford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000108,Dover,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000109,Gravesham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000110,Maidstone,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000111,Sevenoaks,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000112,Folkestone and Hythe,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000113,Swale,Well-being,AboveMedian,anxiety
+E07000114,Thanet,Well-being,AboveMedian,None
+E07000115,Tonbridge and Malling,Well-being,AboveMedian,anxiety
+E07000116,Tunbridge Wells,Well-being,AboveMedian,None
+E07000117,Burnley,Well-being,AboveMedian,anxiety
+E07000118,Chorley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000119,Fylde,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000120,Hyndburn,Well-being,AboveMedian,anxiety
+E07000121,Lancaster,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000122,Pendle,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000123,Preston,Well-being,AboveMedian,None
+E07000124,Ribble Valley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000125,Rossendale,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000126,South Ribble,Well-being,AboveMedian,None
+E07000127,West Lancashire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000128,Wyre,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000129,Blaby,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000130,Charnwood,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000131,Harborough,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000132,Hinckley and Bosworth,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000133,Melton,Well-being,AboveMedian,anxiety
+E07000134,North West Leicestershire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000135,Oadby and Wigston,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000136,Boston,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000137,East Lindsey,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000138,Lincoln,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000139,North Kesteven,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000140,South Holland,Well-being,AboveMedian,anxiety
+E07000141,South Kesteven,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000142,West Lindsey,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000143,Breckland,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000144,Broadland,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000145,Great Yarmouth,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000146,King's Lynn and West Norfolk,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000147,North Norfolk,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000148,Norwich,Well-being,AboveMedian,None
+E07000149,South Norfolk,Well-being,AboveMedian,anxiety
+E07000163,Craven,Well-being,AboveMedian,None
+E07000164,Hambleton,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000165,Harrogate,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000166,Richmondshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000167,Ryedale,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000168,Scarborough,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000169,Selby,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000170,Ashfield,Well-being,AboveMedian,anxiety
+E07000171,Bassetlaw,Well-being,AboveMedian,None
+E07000172,Broxtowe,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000173,Gedling,Well-being,AboveMedian,None
+E07000174,Mansfield,Well-being,AboveMedian,None
+E07000175,Newark and Sherwood,Well-being,AboveMedian,None
+E07000176,Rushcliffe,Well-being,AboveMedian,None
+E07000177,Cherwell,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000178,Oxford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000179,South Oxfordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000180,Vale of White Horse,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000181,West Oxfordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000187,Mendip,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000188,Sedgemoor,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000189,South Somerset,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000192,Cannock Chase,Well-being,AboveMedian,anxiety
+E07000193,East Staffordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000194,Lichfield,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000195,Newcastle-under-Lyme,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000196,South Staffordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000197,Stafford,Well-being,AboveMedian,anxiety
+E07000198,Staffordshire Moorlands,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000199,Tamworth,Well-being,AboveMedian,anxiety
+E07000200,Babergh,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000202,Ipswich,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000203,Mid Suffolk,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000207,Elmbridge,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000208,Epsom and Ewell,Well-being,AboveMedian,None
+E07000209,Guildford,Well-being,AboveMedian,anxiety
+E07000210,Mole Valley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000211,Reigate and Banstead,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000212,Runnymede,Well-being,AboveMedian,anxiety
+E07000213,Spelthorne,Well-being,AboveMedian,None
+E07000214,Surrey Heath,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000215,Tandridge,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000216,Waverley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000217,Woking,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000218,North Warwickshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000219,Nuneaton and Bedworth,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000220,Rugby,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000221,Stratford-on-Avon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000222,Warwick,Well-being,AboveMedian,anxiety
+E07000223,Adur,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000224,Arun,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000225,Chichester,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000226,Crawley,Well-being,AboveMedian,None
+E07000227,Horsham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000228,Mid Sussex,Well-being,AboveMedian,None
+E07000229,Worthing,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000234,Bromsgrove,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000235,Malvern Hills,Well-being,AboveMedian,None
+E07000236,Redditch,Well-being,AboveMedian,None
+E07000237,Worcester,Well-being,AboveMedian,anxiety
+E07000238,Wychavon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000239,Wyre Forest,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000240,St Albans,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000241,Welwyn Hatfield,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000242,East Hertfordshire,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000243,Stevenage,Well-being,AboveMedian,None
+E07000244,East Suffolk,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000245,West Suffolk,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000246,Somerset West and Taunton,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000001,Bolton,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000002,Bury,Well-being,AboveMedian,None
+E08000003,Manchester,Well-being,AboveMedian,None
+E08000004,Oldham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000005,Rochdale,Well-being,AboveMedian,anxiety
+E08000006,Salford,Well-being,AboveMedian,None
+E08000007,Stockport,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000008,Tameside,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000009,Trafford,Well-being,AboveMedian,None
+E08000010,Wigan,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000011,Knowsley,Well-being,AboveMedian,None
+E08000012,Liverpool,Well-being,AboveMedian,None
+E08000013,St. Helens,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000014,Sefton,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000015,Wirral,Well-being,AboveMedian,None
+E08000016,Barnsley,Well-being,AboveMedian,None
+E08000017,Doncaster,Well-being,AboveMedian,anxiety
+E08000018,Rotherham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000019,Sheffield,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000021,Newcastle upon Tyne,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000022,North Tyneside,Well-being,AboveMedian,None
+E08000023,South Tyneside,Well-being,AboveMedian,anxiety
+E08000024,Sunderland,Well-being,AboveMedian,None
+E08000025,Birmingham,Well-being,AboveMedian,None
+E08000026,Coventry,Well-being,AboveMedian,anxiety
+E08000027,Dudley,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000028,Sandwell,Well-being,AboveMedian,anxiety
+E08000029,Solihull,Well-being,AboveMedian,anxiety
+E08000030,Walsall,Well-being,AboveMedian,None
+E08000031,Wolverhampton,Well-being,AboveMedian,anxiety
+E08000032,Bradford,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000033,Calderdale,Well-being,AboveMedian,anxiety
+E08000034,Kirklees,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000035,Leeds,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000036,Wakefield,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000037,Gateshead,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000001,City of London,Well-being,AboveMedian,null
+E09000002,Barking and Dagenham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000003,Barnet,Well-being,AboveMedian,anxiety
+E09000004,Bexley,Well-being,AboveMedian,anxiety
+E09000005,Brent,Well-being,AboveMedian,None
+E09000006,Bromley,Well-being,AboveMedian,None
+E09000007,Camden,Well-being,AboveMedian,None
+E09000008,Croydon,Well-being,AboveMedian,None
+E09000009,Ealing,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000010,Enfield,Well-being,AboveMedian,None
+E09000011,Greenwich,Well-being,AboveMedian,None
+E09000012,Hackney,Well-being,AboveMedian,None
+E09000013,Hammersmith and Fulham,Well-being,AboveMedian,None
+E09000014,Haringey,Well-being,AboveMedian,None
+E09000015,Harrow,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000016,Havering,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000017,Hillingdon,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000018,Hounslow,Well-being,AboveMedian,None
+E09000019,Islington,Well-being,AboveMedian,None
+E09000020,Kensington and Chelsea,Well-being,AboveMedian,None
+E09000021,Kingston upon Thames,Well-being,AboveMedian,None
+E09000022,Lambeth,Well-being,AboveMedian,None
+E09000023,Lewisham,Well-being,AboveMedian,anxiety
+E09000024,Merton,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000025,Newham,Well-being,AboveMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000026,Redbridge,Well-being,AboveMedian,anxiety
+E09000027,Richmond upon Thames,Well-being,AboveMedian,None
+E09000028,Southwark,Well-being,AboveMedian,None
+E09000029,Sutton,Well-being,AboveMedian,anxiety
+E09000030,Tower Hamlets,Well-being,AboveMedian,anxiety
+E09000031,Waltham Forest,Well-being,AboveMedian,anxiety
+E09000032,Wandsworth,Well-being,AboveMedian,None
+E09000033,Westminster,Well-being,AboveMedian,None
+E06000001,Hartlepool,Well-being,BelowMedian,None
+E06000002,Middlesbrough,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000003,Redcar and Cleveland,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000004,Stockton-on-Tees,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000005,Darlington,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000006,Halton,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000007,Warrington,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000008,Blackburn with Darwen,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000009,Blackpool,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000010,"Kingston upon Hull, City of",Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000011,East Riding of Yorkshire,Well-being,BelowMedian,None
+E06000012,North East Lincolnshire,Well-being,BelowMedian,None
+E06000013,North Lincolnshire,Well-being,BelowMedian,None
+E06000014,York,Well-being,BelowMedian,None
+E06000015,Derby,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000016,Leicester,Well-being,BelowMedian,None
+E06000017,Rutland,Well-being,BelowMedian,None
+E06000018,Nottingham,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000019,"Herefordshire, County of",Well-being,BelowMedian,None
+E06000020,Telford and Wrekin,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000021,Stoke-on-Trent,Well-being,BelowMedian,None
+E06000022,Bath and North East Somerset,Well-being,BelowMedian,None
+E06000023,"Bristol, City of",Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000024,North Somerset,Well-being,BelowMedian,None
+E06000025,South Gloucestershire,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000026,Plymouth,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000027,Torbay,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000030,Swindon,Well-being,BelowMedian,None
+E06000031,Peterborough,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000032,Luton,Well-being,BelowMedian,None
+E06000033,Southend-on-Sea,Well-being,BelowMedian,None
+E06000034,Thurrock,Well-being,BelowMedian,None
+E06000035,Medway,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000036,Bracknell Forest,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000037,West Berkshire,Well-being,BelowMedian,None
+E06000038,Reading,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000039,Slough,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000040,Windsor and Maidenhead,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000041,Wokingham,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000042,Milton Keynes,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000043,Brighton and Hove,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000044,Portsmouth,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000045,Southampton,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000046,Isle of Wight,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E06000047,County Durham,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000049,Cheshire East,Well-being,BelowMedian,None
+E06000050,Cheshire West and Chester,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000051,Shropshire,Well-being,BelowMedian,None
+E06000052,Cornwall,Well-being,BelowMedian,None
+E06000053,Isles of Scilly,Well-being,BelowMedian,null
+E06000054,Wiltshire,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000055,Bedford,Well-being,BelowMedian,None
+E06000056,Central Bedfordshire,Well-being,BelowMedian,None
+E06000057,Northumberland,Well-being,BelowMedian,None
+E06000058,"Bournemouth, Christchurch and Poole",Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000059,Dorset,Well-being,BelowMedian,None
+E06000060,Buckinghamshire,Well-being,BelowMedian,None
+E06000061,North Northamptonshire,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E06000062,West Northamptonshire,Well-being,BelowMedian,None
+E07000008,Cambridge,Well-being,BelowMedian,None
+E07000009,East Cambridgeshire,Well-being,BelowMedian,None
+E07000010,Fenland,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000011,Huntingdonshire,Well-being,BelowMedian,None
+E07000012,South Cambridgeshire,Well-being,BelowMedian,None
+E07000026,Allerdale,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000027,Barrow-in-Furness,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000028,Carlisle,Well-being,BelowMedian,None
+E07000029,Copeland,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000030,Eden,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000031,South Lakeland,Well-being,BelowMedian,None
+E07000032,Amber Valley,Well-being,BelowMedian,None
+E07000033,Bolsover,Well-being,BelowMedian,None
+E07000034,Chesterfield,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000035,Derbyshire Dales,Well-being,BelowMedian,None
+E07000036,Erewash,Well-being,BelowMedian,None
+E07000037,High Peak,Well-being,BelowMedian,None
+E07000038,North East Derbyshire,Well-being,BelowMedian,None
+E07000039,South Derbyshire,Well-being,BelowMedian,None
+E07000040,East Devon,Well-being,BelowMedian,None
+E07000041,Exeter,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000042,Mid Devon,Well-being,BelowMedian,None
+E07000043,North Devon,Well-being,BelowMedian,None
+E07000044,South Hams,Well-being,BelowMedian,None
+E07000045,Teignbridge,Well-being,BelowMedian,None
+E07000046,Torridge,Well-being,BelowMedian,None
+E07000047,West Devon,Well-being,BelowMedian,None
+E07000061,Eastbourne,Well-being,BelowMedian,None
+E07000062,Hastings,Well-being,BelowMedian,None
+E07000063,Lewes,Well-being,BelowMedian,None
+E07000064,Rother,Well-being,BelowMedian,None
+E07000065,Wealden,Well-being,BelowMedian,None
+E07000066,Basildon,Well-being,BelowMedian,None
+E07000067,Braintree,Well-being,BelowMedian,None
+E07000068,Brentwood,Well-being,BelowMedian,None
+E07000069,Castle Point,Well-being,BelowMedian,None
+E07000070,Chelmsford,Well-being,BelowMedian,None
+E07000071,Colchester,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000072,Epping Forest,Well-being,BelowMedian,None
+E07000073,Harlow,Well-being,BelowMedian,None
+E07000074,Maldon,Well-being,BelowMedian,None
+E07000075,Rochford,Well-being,BelowMedian,None
+E07000076,Tendring,Well-being,BelowMedian,None
+E07000077,Uttlesford,Well-being,BelowMedian,None
+E07000078,Cheltenham,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000079,Cotswold,Well-being,BelowMedian,None
+E07000080,Forest of Dean,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000081,Gloucester,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000082,Stroud,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000083,Tewkesbury,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000084,Basingstoke and Deane,Well-being,BelowMedian,None
+E07000085,East Hampshire,Well-being,BelowMedian,None
+E07000086,Eastleigh,Well-being,BelowMedian,None
+E07000087,Fareham,Well-being,BelowMedian,None
+E07000088,Gosport,Well-being,BelowMedian,None
+E07000089,Hart,Well-being,BelowMedian,None
+E07000090,Havant,Well-being,BelowMedian,None
+E07000091,New Forest,Well-being,BelowMedian,None
+E07000092,Rushmoor,Well-being,BelowMedian,None
+E07000093,Test Valley,Well-being,BelowMedian,None
+E07000094,Winchester,Well-being,BelowMedian,None
+E07000095,Broxbourne,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000096,Dacorum,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000098,Hertsmere,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000099,North Hertfordshire,Well-being,BelowMedian,None
+E07000102,Three Rivers,Well-being,BelowMedian,None
+E07000103,Watford,Well-being,BelowMedian,None
+E07000105,Ashford,Well-being,BelowMedian,None
+E07000106,Canterbury,Well-being,BelowMedian,None
+E07000107,Dartford,Well-being,BelowMedian,None
+E07000108,Dover,Well-being,BelowMedian,None
+E07000109,Gravesham,Well-being,BelowMedian,None
+E07000110,Maidstone,Well-being,BelowMedian,None
+E07000111,Sevenoaks,Well-being,BelowMedian,None
+E07000112,Folkestone and Hythe,Well-being,BelowMedian,None
+E07000113,Swale,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000114,Thanet,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000115,Tonbridge and Malling,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000116,Tunbridge Wells,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000117,Burnley,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000118,Chorley,Well-being,BelowMedian,None
+E07000119,Fylde,Well-being,BelowMedian,None
+E07000120,Hyndburn,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000121,Lancaster,Well-being,BelowMedian,None
+E07000122,Pendle,Well-being,BelowMedian,None
+E07000123,Preston,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000124,Ribble Valley,Well-being,BelowMedian,None
+E07000125,Rossendale,Well-being,BelowMedian,None
+E07000126,South Ribble,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000127,West Lancashire,Well-being,BelowMedian,None
+E07000128,Wyre,Well-being,BelowMedian,None
+E07000129,Blaby,Well-being,BelowMedian,None
+E07000130,Charnwood,Well-being,BelowMedian,None
+E07000131,Harborough,Well-being,BelowMedian,None
+E07000132,Hinckley and Bosworth,Well-being,BelowMedian,None
+E07000133,Melton,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000134,North West Leicestershire,Well-being,BelowMedian,None
+E07000135,Oadby and Wigston,Well-being,BelowMedian,None
+E07000136,Boston,Well-being,BelowMedian,None
+E07000137,East Lindsey,Well-being,BelowMedian,None
+E07000138,Lincoln,Well-being,BelowMedian,None
+E07000139,North Kesteven,Well-being,BelowMedian,None
+E07000140,South Holland,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000141,South Kesteven,Well-being,BelowMedian,None
+E07000142,West Lindsey,Well-being,BelowMedian,None
+E07000143,Breckland,Well-being,BelowMedian,None
+E07000144,Broadland,Well-being,BelowMedian,None
+E07000145,Great Yarmouth,Well-being,BelowMedian,None
+E07000146,King's Lynn and West Norfolk,Well-being,BelowMedian,None
+E07000147,North Norfolk,Well-being,BelowMedian,None
+E07000148,Norwich,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000149,South Norfolk,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000163,Craven,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000164,Hambleton,Well-being,BelowMedian,None
+E07000165,Harrogate,Well-being,BelowMedian,None
+E07000166,Richmondshire,Well-being,BelowMedian,None
+E07000167,Ryedale,Well-being,BelowMedian,None
+E07000168,Scarborough,Well-being,BelowMedian,None
+E07000169,Selby,Well-being,BelowMedian,None
+E07000170,Ashfield,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000171,Bassetlaw,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000172,Broxtowe,Well-being,BelowMedian,None
+E07000173,Gedling,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000174,Mansfield,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000175,Newark and Sherwood,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000176,Rushcliffe,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000177,Cherwell,Well-being,BelowMedian,None
+E07000178,Oxford,Well-being,BelowMedian,None
+E07000179,South Oxfordshire,Well-being,BelowMedian,None
+E07000180,Vale of White Horse,Well-being,BelowMedian,None
+E07000181,West Oxfordshire,Well-being,BelowMedian,None
+E07000187,Mendip,Well-being,BelowMedian,None
+E07000188,Sedgemoor,Well-being,BelowMedian,None
+E07000189,South Somerset,Well-being,BelowMedian,None
+E07000192,Cannock Chase,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000193,East Staffordshire,Well-being,BelowMedian,None
+E07000194,Lichfield,Well-being,BelowMedian,None
+E07000195,Newcastle-under-Lyme,Well-being,BelowMedian,None
+E07000196,South Staffordshire,Well-being,BelowMedian,None
+E07000197,Stafford,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000198,Staffordshire Moorlands,Well-being,BelowMedian,None
+E07000199,Tamworth,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000200,Babergh,Well-being,BelowMedian,None
+E07000202,Ipswich,Well-being,BelowMedian,None
+E07000203,Mid Suffolk,Well-being,BelowMedian,None
+E07000207,Elmbridge,Well-being,BelowMedian,None
+E07000208,Epsom and Ewell,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000209,Guildford,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000210,Mole Valley,Well-being,BelowMedian,None
+E07000211,Reigate and Banstead,Well-being,BelowMedian,None
+E07000212,Runnymede,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000213,Spelthorne,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000214,Surrey Heath,Well-being,BelowMedian,None
+E07000215,Tandridge,Well-being,BelowMedian,None
+E07000216,Waverley,Well-being,BelowMedian,None
+E07000217,Woking,Well-being,BelowMedian,None
+E07000218,North Warwickshire,Well-being,BelowMedian,None
+E07000219,Nuneaton and Bedworth,Well-being,BelowMedian,None
+E07000220,Rugby,Well-being,BelowMedian,None
+E07000221,Stratford-on-Avon,Well-being,BelowMedian,None
+E07000222,Warwick,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000223,Adur,Well-being,BelowMedian,None
+E07000224,Arun,Well-being,BelowMedian,None
+E07000225,Chichester,Well-being,BelowMedian,None
+E07000226,Crawley,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000227,Horsham,Well-being,BelowMedian,None
+E07000228,Mid Sussex,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000229,Worthing,Well-being,BelowMedian,None
+E07000234,Bromsgrove,Well-being,BelowMedian,None
+E07000235,Malvern Hills,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000236,Redditch,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000237,Worcester,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E07000238,Wychavon,Well-being,BelowMedian,None
+E07000239,Wyre Forest,Well-being,BelowMedian,None
+E07000240,St Albans,Well-being,BelowMedian,None
+E07000241,Welwyn Hatfield,Well-being,BelowMedian,None
+E07000242,East Hertfordshire,Well-being,BelowMedian,None
+E07000243,Stevenage,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E07000244,East Suffolk,Well-being,BelowMedian,None
+E07000245,West Suffolk,Well-being,BelowMedian,None
+E07000246,Somerset West and Taunton,Well-being,BelowMedian,None
+E08000001,Bolton,Well-being,BelowMedian,None
+E08000002,Bury,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000003,Manchester,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000004,Oldham,Well-being,BelowMedian,None
+E08000005,Rochdale,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000006,Salford,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000007,Stockport,Well-being,BelowMedian,None
+E08000008,Tameside,Well-being,BelowMedian,None
+E08000009,Trafford,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000010,Wigan,Well-being,BelowMedian,None
+E08000011,Knowsley,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000012,Liverpool,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000013,St. Helens,Well-being,BelowMedian,None
+E08000014,Sefton,Well-being,BelowMedian,None
+E08000015,Wirral,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000016,Barnsley,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000017,Doncaster,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000018,Rotherham,Well-being,BelowMedian,None
+E08000019,Sheffield,Well-being,BelowMedian,None
+E08000021,Newcastle upon Tyne,Well-being,BelowMedian,None
+E08000022,North Tyneside,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000023,South Tyneside,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000024,Sunderland,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000025,Birmingham,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000026,Coventry,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000027,Dudley,Well-being,BelowMedian,None
+E08000028,Sandwell,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000029,Solihull,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000030,Walsall,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E08000031,Wolverhampton,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000032,Bradford,Well-being,BelowMedian,None
+E08000033,Calderdale,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E08000034,Kirklees,Well-being,BelowMedian,None
+E08000035,Leeds,Well-being,BelowMedian,None
+E08000036,Wakefield,Well-being,BelowMedian,None
+E08000037,Gateshead,Well-being,BelowMedian,None
+E09000001,City of London,Well-being,BelowMedian,null
+E09000002,Barking and Dagenham,Well-being,BelowMedian,None
+E09000003,Barnet,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000004,Bexley,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000005,Brent,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000006,Bromley,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000007,Camden,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000008,Croydon,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000009,Ealing,Well-being,BelowMedian,None
+E09000010,Enfield,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000011,Greenwich,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000012,Hackney,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000013,Hammersmith and Fulham,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000014,Haringey,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000015,Harrow,Well-being,BelowMedian,None
+E09000016,Havering,Well-being,BelowMedian,None
+E09000017,Hillingdon,Well-being,BelowMedian,None
+E09000018,Hounslow,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000019,Islington,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000020,Kensington and Chelsea,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000021,Kingston upon Thames,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000022,Lambeth,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000023,Lewisham,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000024,Merton,Well-being,BelowMedian,None
+E09000025,Newham,Well-being,BelowMedian,None
+E09000026,Redbridge,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000027,Richmond upon Thames,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000028,Southwark,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000029,Sutton,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000030,Tower Hamlets,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000031,Waltham Forest,Well-being,BelowMedian,life satisfaction and feeling life is worthwhile
+E09000032,Wandsworth,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
+E09000033,Westminster,Well-being,BelowMedian,"life satisfaction, anxiety, happiness and feeling life is worthwhile"
